@@ -1,0 +1,5245 @@
+[
+    {
+        "timestamp": 150885,
+        "host": "C1003",
+        "user": "U620@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U620@DOM1' moved from host C17693 to host C1003"
+    },
+    {
+        "timestamp": 151036,
+        "host": "C305",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C305"
+    },
+    {
+        "timestamp": 151648,
+        "host": "C728",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C728"
+    },
+    {
+        "timestamp": 151993,
+        "host": "C1173",
+        "user": "U6115@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U6115@DOM1' moved from host C17693 to host C1173"
+    },
+    {
+        "timestamp": 153792,
+        "host": "C294",
+        "user": "U636@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U636@DOM1' moved from host C17693 to host C294"
+    },
+    {
+        "timestamp": 155219,
+        "host": "C5693",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C5693"
+    },
+    {
+        "timestamp": 155399,
+        "host": "C152",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C152"
+    },
+    {
+        "timestamp": 155460,
+        "host": "C2341",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C2341"
+    },
+    {
+        "timestamp": 155591,
+        "host": "C332",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C332"
+    },
+    {
+        "timestamp": 156658,
+        "host": "C4280",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C4280"
+    },
+    {
+        "timestamp": 210086,
+        "host": "C1493",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C18025 to host C1493"
+    },
+    {
+        "timestamp": 210294,
+        "host": "C1493",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C18025 to host C1493"
+    },
+    {
+        "timestamp": 210312,
+        "host": "C1493",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C18025 to host C1493"
+    },
+    {
+        "timestamp": 218418,
+        "host": "C504",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C504"
+    },
+    {
+        "timestamp": 227052,
+        "host": "C148",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C148"
+    },
+    {
+        "timestamp": 227408,
+        "host": "C148",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C148"
+    },
+    {
+        "timestamp": 227520,
+        "host": "C148",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C148"
+    },
+    {
+        "timestamp": 227780,
+        "host": "C148",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C148"
+    },
+    {
+        "timestamp": 228024,
+        "host": "C148",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C148"
+    },
+    {
+        "timestamp": 228150,
+        "host": "C148",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C148"
+    },
+    {
+        "timestamp": 228642,
+        "host": "C231",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C231"
+    },
+    {
+        "timestamp": 228658,
+        "host": "C231",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C231"
+    },
+    {
+        "timestamp": 229046,
+        "host": "C231",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C231"
+    },
+    {
+        "timestamp": 230395,
+        "host": "C1003",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C1003"
+    },
+    {
+        "timestamp": 234667,
+        "host": "C504",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C504"
+    },
+    {
+        "timestamp": 460197,
+        "host": "C721",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C721"
+    },
+    {
+        "timestamp": 460711,
+        "host": "C721",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C721"
+    },
+    {
+        "timestamp": 460991,
+        "host": "C721",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C721"
+    },
+    {
+        "timestamp": 461842,
+        "host": "C1567",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C1567"
+    },
+    {
+        "timestamp": 463374,
+        "host": "C1003",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C1003"
+    },
+    {
+        "timestamp": 464246,
+        "host": "C1567",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C1567"
+    },
+    {
+        "timestamp": 464254,
+        "host": "C1567",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C1567"
+    },
+    {
+        "timestamp": 464260,
+        "host": "C1567",
+        "user": "U748@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U748@DOM1' moved from host C17693 to host C1567"
+    },
+    {
+        "timestamp": 464545,
+        "host": "C612",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C612"
+    },
+    {
+        "timestamp": 466195,
+        "host": "C457",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C457"
+    },
+    {
+        "timestamp": 467590,
+        "host": "C17600",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C17600"
+    },
+    {
+        "timestamp": 472248,
+        "host": "C2519",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 472282,
+        "host": "C2519",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 473122,
+        "host": "C1275",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C1275"
+    },
+    {
+        "timestamp": 483455,
+        "host": "C294",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C294"
+    },
+    {
+        "timestamp": 483981,
+        "host": "C294",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C294"
+    },
+    {
+        "timestamp": 485925,
+        "host": "C294",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C294"
+    },
+    {
+        "timestamp": 486443,
+        "host": "C294",
+        "user": "U636@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U636@DOM1' moved from host C17693 to host C294"
+    },
+    {
+        "timestamp": 488034,
+        "host": "C1275",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C1275"
+    },
+    {
+        "timestamp": 489614,
+        "host": "C1275",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C1275"
+    },
+    {
+        "timestamp": 491747,
+        "host": "C294",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C294"
+    },
+    {
+        "timestamp": 578438,
+        "host": "C1065",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C1065"
+    },
+    {
+        "timestamp": 584551,
+        "host": "C2669",
+        "user": "U825@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U825@DOM1' moved from host C17693 to host C2669"
+    },
+    {
+        "timestamp": 584564,
+        "host": "C612",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C612"
+    },
+    {
+        "timestamp": 635015,
+        "host": "C529",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C529"
+    },
+    {
+        "timestamp": 725488,
+        "host": "C395",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 725589,
+        "host": "C2669",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C17693 to host C2669"
+    },
+    {
+        "timestamp": 725983,
+        "host": "C3153",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C3153"
+    },
+    {
+        "timestamp": 726008,
+        "host": "C1610",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C1610"
+    },
+    {
+        "timestamp": 726057,
+        "host": "C3153",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C3153"
+    },
+    {
+        "timestamp": 726137,
+        "host": "C3521",
+        "user": "U10379@C3521",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U10379@C3521' moved from host C17693 to host C3521"
+    },
+    {
+        "timestamp": 726203,
+        "host": "C3153",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C3153"
+    },
+    {
+        "timestamp": 726347,
+        "host": "C1124",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C1124"
+    },
+    {
+        "timestamp": 726387,
+        "host": "C3153",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C3153"
+    },
+    {
+        "timestamp": 726472,
+        "host": "C3199",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C3199"
+    },
+    {
+        "timestamp": 726973,
+        "host": "C3153",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C3153"
+    },
+    {
+        "timestamp": 726985,
+        "host": "C11727",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C11727"
+    },
+    {
+        "timestamp": 727060,
+        "host": "C754",
+        "user": "U8601@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8601@DOM1' moved from host C17693 to host C754"
+    },
+    {
+        "timestamp": 727131,
+        "host": "C126",
+        "user": "U212@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U212@DOM1' moved from host C17693 to host C126"
+    },
+    {
+        "timestamp": 727419,
+        "host": "C126",
+        "user": "U212@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U212@DOM1' moved from host C17693 to host C126"
+    },
+    {
+        "timestamp": 727619,
+        "host": "C126",
+        "user": "U212@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U212@DOM1' moved from host C17693 to host C126"
+    },
+    {
+        "timestamp": 727702,
+        "host": "C9945",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C9945"
+    },
+    {
+        "timestamp": 727798,
+        "host": "C9945",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C9945"
+    },
+    {
+        "timestamp": 727888,
+        "host": "C9945",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C9945"
+    },
+    {
+        "timestamp": 728106,
+        "host": "C1448",
+        "user": "U4978@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4978@DOM1' moved from host C17693 to host C1448"
+    },
+    {
+        "timestamp": 728138,
+        "host": "C9945",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C9945"
+    },
+    {
+        "timestamp": 728800,
+        "host": "C9945",
+        "user": "U3905@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3905@DOM1' moved from host C17693 to host C9945"
+    },
+    {
+        "timestamp": 729056,
+        "host": "C1014",
+        "user": "U995@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U995@DOM1' moved from host C17693 to host C1014"
+    },
+    {
+        "timestamp": 730430,
+        "host": "C20819",
+        "user": "U8601@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8601@DOM1' moved from host C17693 to host C20819"
+    },
+    {
+        "timestamp": 730524,
+        "host": "C20819",
+        "user": "U8601@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8601@DOM1' moved from host C17693 to host C20819"
+    },
+    {
+        "timestamp": 730889,
+        "host": "C18626",
+        "user": "U8601@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8601@DOM1' moved from host C17693 to host C18626"
+    },
+    {
+        "timestamp": 731101,
+        "host": "C18626",
+        "user": "U8601@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8601@DOM1' moved from host C17693 to host C18626"
+    },
+    {
+        "timestamp": 731492,
+        "host": "C1222",
+        "user": "U288@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U288@DOM1' moved from host C17693 to host C1222"
+    },
+    {
+        "timestamp": 736582,
+        "host": "C89",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C89"
+    },
+    {
+        "timestamp": 736894,
+        "host": "C1484",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C1484"
+    },
+    {
+        "timestamp": 736936,
+        "host": "C8490",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C8490"
+    },
+    {
+        "timestamp": 737011,
+        "host": "C3601",
+        "user": "U349@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U349@DOM1' moved from host C17693 to host C3601"
+    },
+    {
+        "timestamp": 737055,
+        "host": "C1784",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C1784"
+    },
+    {
+        "timestamp": 737069,
+        "host": "C1784",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C1784"
+    },
+    {
+        "timestamp": 737075,
+        "host": "C1784",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C1784"
+    },
+    {
+        "timestamp": 737099,
+        "host": "C2519",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 737108,
+        "host": "C11194",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C11194"
+    },
+    {
+        "timestamp": 737301,
+        "host": "C395",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 737761,
+        "host": "C10577",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C10577"
+    },
+    {
+        "timestamp": 737908,
+        "host": "C18872",
+        "user": "U8601@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8601@DOM1' moved from host C17693 to host C18872"
+    },
+    {
+        "timestamp": 738382,
+        "host": "C2597",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C2597"
+    },
+    {
+        "timestamp": 738711,
+        "host": "C2609",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C2609"
+    },
+    {
+        "timestamp": 738916,
+        "host": "C2849",
+        "user": "U250@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U250@DOM1' moved from host C17693 to host C2849"
+    },
+    {
+        "timestamp": 739092,
+        "host": "C3422",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C3422"
+    },
+    {
+        "timestamp": 739214,
+        "host": "C3153",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C3153"
+    },
+    {
+        "timestamp": 739398,
+        "host": "C42",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C42"
+    },
+    {
+        "timestamp": 739706,
+        "host": "C92",
+        "user": "U1600@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1600@DOM1' moved from host C17693 to host C92"
+    },
+    {
+        "timestamp": 739734,
+        "host": "C16088",
+        "user": "U1600@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1600@DOM1' moved from host C17693 to host C16088"
+    },
+    {
+        "timestamp": 740104,
+        "host": "C92",
+        "user": "U1600@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1600@DOM1' moved from host C17693 to host C92"
+    },
+    {
+        "timestamp": 740912,
+        "host": "C886",
+        "user": "U349@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U349@DOM1' moved from host C17693 to host C886"
+    },
+    {
+        "timestamp": 740920,
+        "host": "C886",
+        "user": "U349@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U349@DOM1' moved from host C17693 to host C886"
+    },
+    {
+        "timestamp": 741010,
+        "host": "C10817",
+        "user": "U8601@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8601@DOM1' moved from host C17693 to host C10817"
+    },
+    {
+        "timestamp": 741190,
+        "host": "C15232",
+        "user": "U4353@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4353@DOM1' moved from host C17693 to host C15232"
+    },
+    {
+        "timestamp": 741544,
+        "host": "C801",
+        "user": "U349@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U349@DOM1' moved from host C17693 to host C801"
+    },
+    {
+        "timestamp": 741971,
+        "host": "C1015",
+        "user": "U4856@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4856@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 743030,
+        "host": "C1448",
+        "user": "U5087@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5087@DOM1' moved from host C17693 to host C1448"
+    },
+    {
+        "timestamp": 743134,
+        "host": "C359",
+        "user": "U5087@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5087@DOM1' moved from host C17693 to host C359"
+    },
+    {
+        "timestamp": 743223,
+        "host": "C21963",
+        "user": "U5087@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5087@DOM1' moved from host C17693 to host C21963"
+    },
+    {
+        "timestamp": 743232,
+        "host": "C359",
+        "user": "U5087@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5087@DOM1' moved from host C17693 to host C359"
+    },
+    {
+        "timestamp": 743403,
+        "host": "C21963",
+        "user": "U5087@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5087@DOM1' moved from host C17693 to host C21963"
+    },
+    {
+        "timestamp": 743411,
+        "host": "C21963",
+        "user": "U5087@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5087@DOM1' moved from host C17693 to host C21963"
+    },
+    {
+        "timestamp": 743502,
+        "host": "C1268",
+        "user": "U5087@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5087@DOM1' moved from host C17693 to host C1268"
+    },
+    {
+        "timestamp": 743509,
+        "host": "C353",
+        "user": "U5087@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5087@DOM1' moved from host C17693 to host C353"
+    },
+    {
+        "timestamp": 743733,
+        "host": "C353",
+        "user": "U9763@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9763@DOM1' moved from host C17693 to host C353"
+    },
+    {
+        "timestamp": 743965,
+        "host": "C21814",
+        "user": "U9763@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9763@DOM1' moved from host C17693 to host C21814"
+    },
+    {
+        "timestamp": 744145,
+        "host": "C21814",
+        "user": "U5087@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5087@DOM1' moved from host C17693 to host C21814"
+    },
+    {
+        "timestamp": 744215,
+        "host": "C10005",
+        "user": "U795@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U795@DOM1' moved from host C17693 to host C10005"
+    },
+    {
+        "timestamp": 744255,
+        "host": "C353",
+        "user": "U5087@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5087@DOM1' moved from host C17693 to host C353"
+    },
+    {
+        "timestamp": 744902,
+        "host": "C20966",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C20966"
+    },
+    {
+        "timestamp": 745795,
+        "host": "C853",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C853"
+    },
+    {
+        "timestamp": 745961,
+        "host": "C853",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C853"
+    },
+    {
+        "timestamp": 746039,
+        "host": "C853",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C853"
+    },
+    {
+        "timestamp": 746078,
+        "host": "C923",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C923"
+    },
+    {
+        "timestamp": 746151,
+        "host": "C11039",
+        "user": "U882@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U882@DOM1' moved from host C17693 to host C11039"
+    },
+    {
+        "timestamp": 746353,
+        "host": "C1616",
+        "user": "U882@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U882@DOM1' moved from host C17693 to host C1616"
+    },
+    {
+        "timestamp": 746387,
+        "host": "C583",
+        "user": "U8777@C583",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8777@C583' moved from host C17693 to host C583"
+    },
+    {
+        "timestamp": 746595,
+        "host": "C1616",
+        "user": "U882@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U882@DOM1' moved from host C17693 to host C1616"
+    },
+    {
+        "timestamp": 746638,
+        "host": "C346",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C346"
+    },
+    {
+        "timestamp": 746860,
+        "host": "C20203",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C20203"
+    },
+    {
+        "timestamp": 747001,
+        "host": "C12448",
+        "user": "U1450@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1450@DOM1' moved from host C17693 to host C12448"
+    },
+    {
+        "timestamp": 747145,
+        "host": "C20203",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C20203"
+    },
+    {
+        "timestamp": 747163,
+        "host": "C12448",
+        "user": "U1450@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1450@DOM1' moved from host C17693 to host C12448"
+    },
+    {
+        "timestamp": 747229,
+        "host": "C583",
+        "user": "U8777@C583",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8777@C583' moved from host C17693 to host C583"
+    },
+    {
+        "timestamp": 747247,
+        "host": "C1500",
+        "user": "U8777@C1500",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8777@C1500' moved from host C17693 to host C1500"
+    },
+    {
+        "timestamp": 747259,
+        "host": "C12448",
+        "user": "U1450@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1450@DOM1' moved from host C17693 to host C12448"
+    },
+    {
+        "timestamp": 747388,
+        "host": "C346",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C346"
+    },
+    {
+        "timestamp": 747457,
+        "host": "C1479",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C1479"
+    },
+    {
+        "timestamp": 747478,
+        "host": "C3388",
+        "user": "U8777@C3388",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8777@C3388' moved from host C17693 to host C3388"
+    },
+    {
+        "timestamp": 747653,
+        "host": "C12448",
+        "user": "U1450@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1450@DOM1' moved from host C17693 to host C12448"
+    },
+    {
+        "timestamp": 747939,
+        "host": "C1461",
+        "user": "U374@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U374@DOM1' moved from host C17693 to host C1461"
+    },
+    {
+        "timestamp": 748041,
+        "host": "C1119",
+        "user": "U1450@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1450@DOM1' moved from host C17693 to host C1119"
+    },
+    {
+        "timestamp": 748127,
+        "host": "C19156",
+        "user": "U2575@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2575@DOM1' moved from host C17693 to host C19156"
+    },
+    {
+        "timestamp": 748207,
+        "host": "C19156",
+        "user": "U2575@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2575@DOM1' moved from host C17693 to host C19156"
+    },
+    {
+        "timestamp": 748272,
+        "host": "C18113",
+        "user": "U1450@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1450@DOM1' moved from host C17693 to host C18113"
+    },
+    {
+        "timestamp": 748397,
+        "host": "C1461",
+        "user": "U374@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U374@DOM1' moved from host C17693 to host C1461"
+    },
+    {
+        "timestamp": 748428,
+        "host": "C18113",
+        "user": "U1450@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1450@DOM1' moved from host C17693 to host C18113"
+    },
+    {
+        "timestamp": 748806,
+        "host": "C19803",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C19803"
+    },
+    {
+        "timestamp": 748860,
+        "host": "C17425",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C17425"
+    },
+    {
+        "timestamp": 749000,
+        "host": "C19803",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C19803"
+    },
+    {
+        "timestamp": 749054,
+        "host": "C19803",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C19803"
+    },
+    {
+        "timestamp": 749816,
+        "host": "C9692",
+        "user": "U3718@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3718@DOM1' moved from host C17693 to host C9692"
+    },
+    {
+        "timestamp": 749823,
+        "host": "C7131",
+        "user": "U9947@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9947@DOM1' moved from host C17693 to host C7131"
+    },
+    {
+        "timestamp": 750304,
+        "host": "C8172",
+        "user": "U2575@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2575@DOM1' moved from host C17693 to host C8172"
+    },
+    {
+        "timestamp": 750307,
+        "host": "C7503",
+        "user": "U342@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U342@DOM1' moved from host C17693 to host C7503"
+    },
+    {
+        "timestamp": 750419,
+        "host": "C7503",
+        "user": "U342@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U342@DOM1' moved from host C17693 to host C7503"
+    },
+    {
+        "timestamp": 751373,
+        "host": "C7597",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C17693 to host C7597"
+    },
+    {
+        "timestamp": 751918,
+        "host": "C2578",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C17693 to host C2578"
+    },
+    {
+        "timestamp": 752606,
+        "host": "C90",
+        "user": "U6572@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U6572@DOM1' moved from host C17693 to host C90"
+    },
+    {
+        "timestamp": 752613,
+        "host": "C21814",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C17693 to host C21814"
+    },
+    {
+        "timestamp": 752892,
+        "host": "C1477",
+        "user": "U2575@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2575@DOM1' moved from host C17693 to host C1477"
+    },
+    {
+        "timestamp": 753250,
+        "host": "C21814",
+        "user": "U9763@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9763@DOM1' moved from host C17693 to host C21814"
+    },
+    {
+        "timestamp": 753336,
+        "host": "C4845",
+        "user": "U162@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U162@DOM1' moved from host C17693 to host C4845"
+    },
+    {
+        "timestamp": 754096,
+        "host": "C3292",
+        "user": "U162@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U162@DOM1' moved from host C17693 to host C3292"
+    },
+    {
+        "timestamp": 754601,
+        "host": "C7597",
+        "user": "U2575@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2575@DOM1' moved from host C17693 to host C7597"
+    },
+    {
+        "timestamp": 754921,
+        "host": "C2914",
+        "user": "U314@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U314@DOM1' moved from host C17693 to host C2914"
+    },
+    {
+        "timestamp": 755200,
+        "host": "C19356",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C17693 to host C19356"
+    },
+    {
+        "timestamp": 755904,
+        "host": "C798",
+        "user": "U162@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U162@DOM1' moved from host C17693 to host C798"
+    },
+    {
+        "timestamp": 756149,
+        "host": "C302",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C17693 to host C302"
+    },
+    {
+        "timestamp": 757235,
+        "host": "C1125",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C17693 to host C1125"
+    },
+    {
+        "timestamp": 757456,
+        "host": "C3437",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C17693 to host C3437"
+    },
+    {
+        "timestamp": 757625,
+        "host": "C2648",
+        "user": "U642@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U642@DOM1' moved from host C17693 to host C2648"
+    },
+    {
+        "timestamp": 757755,
+        "host": "C2648",
+        "user": "U642@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U642@DOM1' moved from host C17693 to host C2648"
+    },
+    {
+        "timestamp": 758430,
+        "host": "C6513",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C17693 to host C6513"
+    },
+    {
+        "timestamp": 758915,
+        "host": "C15197",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C17693 to host C15197"
+    },
+    {
+        "timestamp": 759396,
+        "host": "C17806",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C17806"
+    },
+    {
+        "timestamp": 760075,
+        "host": "C395",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 760132,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C17693 to host C754"
+    },
+    {
+        "timestamp": 760148,
+        "host": "C706",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C17693 to host C706"
+    },
+    {
+        "timestamp": 760168,
+        "host": "C231",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C17693 to host C231"
+    },
+    {
+        "timestamp": 760175,
+        "host": "C2669",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C17693 to host C2669"
+    },
+    {
+        "timestamp": 760196,
+        "host": "C16467",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C16467"
+    },
+    {
+        "timestamp": 760388,
+        "host": "C6487",
+        "user": "U342@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U342@DOM1' moved from host C17693 to host C6487"
+    },
+    {
+        "timestamp": 760473,
+        "host": "C6487",
+        "user": "U342@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U342@DOM1' moved from host C17693 to host C6487"
+    },
+    {
+        "timestamp": 760694,
+        "host": "C113",
+        "user": "U342@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U342@DOM1' moved from host C17693 to host C113"
+    },
+    {
+        "timestamp": 760807,
+        "host": "C2816",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C2816"
+    },
+    {
+        "timestamp": 761028,
+        "host": "C458",
+        "user": "U342@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U342@DOM1' moved from host C17693 to host C458"
+    },
+    {
+        "timestamp": 761039,
+        "host": "C21664",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C21664"
+    },
+    {
+        "timestamp": 761134,
+        "host": "C2085",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C2085"
+    },
+    {
+        "timestamp": 761173,
+        "host": "C3586",
+        "user": "U342@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U342@DOM1' moved from host C17693 to host C3586"
+    },
+    {
+        "timestamp": 761524,
+        "host": "C19444",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C19444"
+    },
+    {
+        "timestamp": 762009,
+        "host": "C917",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C917"
+    },
+    {
+        "timestamp": 762157,
+        "host": "C917",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C917"
+    },
+    {
+        "timestamp": 762536,
+        "host": "C12682",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C12682"
+    },
+    {
+        "timestamp": 762568,
+        "host": "C12682",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C12682"
+    },
+    {
+        "timestamp": 762834,
+        "host": "C2091",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C2091"
+    },
+    {
+        "timestamp": 762845,
+        "host": "C1506",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C1506"
+    },
+    {
+        "timestamp": 763783,
+        "host": "C12512",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C12512"
+    },
+    {
+        "timestamp": 764106,
+        "host": "C231",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C231"
+    },
+    {
+        "timestamp": 764120,
+        "host": "C706",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C706"
+    },
+    {
+        "timestamp": 764133,
+        "host": "C882",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C882"
+    },
+    {
+        "timestamp": 764140,
+        "host": "C881",
+        "user": "U1480@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1480@DOM1' moved from host C17693 to host C881"
+    },
+    {
+        "timestamp": 764180,
+        "host": "C2388",
+        "user": "U1480@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1480@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 764249,
+        "host": "C46",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C46"
+    },
+    {
+        "timestamp": 764281,
+        "host": "C883",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C883"
+    },
+    {
+        "timestamp": 764284,
+        "host": "C1191",
+        "user": "U1480@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1480@DOM1' moved from host C17693 to host C1191"
+    },
+    {
+        "timestamp": 764310,
+        "host": "C5653",
+        "user": "U1480@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1480@DOM1' moved from host C17693 to host C5653"
+    },
+    {
+        "timestamp": 764405,
+        "host": "C633",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C633"
+    },
+    {
+        "timestamp": 764522,
+        "host": "C1183",
+        "user": "U1480@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1480@DOM1' moved from host C17693 to host C1183"
+    },
+    {
+        "timestamp": 764561,
+        "host": "C2844",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C2844"
+    },
+    {
+        "timestamp": 764570,
+        "host": "C1776",
+        "user": "U1480@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1480@DOM1' moved from host C17693 to host C1776"
+    },
+    {
+        "timestamp": 764595,
+        "host": "C464",
+        "user": "U1480@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1480@DOM1' moved from host C17693 to host C464"
+    },
+    {
+        "timestamp": 764673,
+        "host": "C5453",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C5453"
+    },
+    {
+        "timestamp": 764752,
+        "host": "C4161",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C4161"
+    },
+    {
+        "timestamp": 764900,
+        "host": "C513",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C513"
+    },
+    {
+        "timestamp": 764929,
+        "host": "C1",
+        "user": "U1480@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1480@DOM1' moved from host C17693 to host C1"
+    },
+    {
+        "timestamp": 764943,
+        "host": "C1776",
+        "user": "U1480@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1480@DOM1' moved from host C17693 to host C1776"
+    },
+    {
+        "timestamp": 765016,
+        "host": "C1215",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C1215"
+    },
+    {
+        "timestamp": 765175,
+        "host": "C2849",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C2849"
+    },
+    {
+        "timestamp": 765231,
+        "host": "C2012",
+        "user": "U1480@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1480@DOM1' moved from host C17693 to host C2012"
+    },
+    {
+        "timestamp": 765278,
+        "host": "C3455",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C3455"
+    },
+    {
+        "timestamp": 765488,
+        "host": "C4159",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C4159"
+    },
+    {
+        "timestamp": 765776,
+        "host": "C1006",
+        "user": "U162@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U162@DOM1' moved from host C17693 to host C1006"
+    },
+    {
+        "timestamp": 765788,
+        "host": "C92",
+        "user": "U162@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U162@DOM1' moved from host C17693 to host C92"
+    },
+    {
+        "timestamp": 765805,
+        "host": "C801",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C801"
+    },
+    {
+        "timestamp": 765817,
+        "host": "C1022",
+        "user": "U162@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U162@DOM1' moved from host C17693 to host C1022"
+    },
+    {
+        "timestamp": 765934,
+        "host": "C2914",
+        "user": "U314@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U314@DOM1' moved from host C17693 to host C2914"
+    },
+    {
+        "timestamp": 765960,
+        "host": "C11039",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C11039"
+    },
+    {
+        "timestamp": 766132,
+        "host": "C1737",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C1737"
+    },
+    {
+        "timestamp": 766150,
+        "host": "C1710",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C1710"
+    },
+    {
+        "timestamp": 766164,
+        "host": "C231",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C231"
+    },
+    {
+        "timestamp": 766183,
+        "host": "C395",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 766534,
+        "host": "C3435",
+        "user": "U162@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U162@DOM1' moved from host C17693 to host C3435"
+    },
+    {
+        "timestamp": 766588,
+        "host": "C3435",
+        "user": "U162@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U162@DOM1' moved from host C17693 to host C3435"
+    },
+    {
+        "timestamp": 766788,
+        "host": "C3435",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3435"
+    },
+    {
+        "timestamp": 766846,
+        "host": "C61",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C61"
+    },
+    {
+        "timestamp": 766879,
+        "host": "C2091",
+        "user": "U1164@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1164@DOM1' moved from host C17693 to host C2091"
+    },
+    {
+        "timestamp": 767001,
+        "host": "C307",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C307"
+    },
+    {
+        "timestamp": 767180,
+        "host": "C3699",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3699"
+    },
+    {
+        "timestamp": 767187,
+        "host": "C395",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 767195,
+        "host": "C2519",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 767205,
+        "host": "C1784",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C1784"
+    },
+    {
+        "timestamp": 767225,
+        "host": "C1784",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C1784"
+    },
+    {
+        "timestamp": 767233,
+        "host": "C8490",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C8490"
+    },
+    {
+        "timestamp": 767238,
+        "host": "C1484",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C1484"
+    },
+    {
+        "timestamp": 767246,
+        "host": "C89",
+        "user": "U2837@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2837@DOM1' moved from host C17693 to host C89"
+    },
+    {
+        "timestamp": 767288,
+        "host": "C3755",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3755"
+    },
+    {
+        "timestamp": 767289,
+        "host": "C492",
+        "user": "U7394@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7394@DOM1' moved from host C17693 to host C492"
+    },
+    {
+        "timestamp": 767300,
+        "host": "C1797",
+        "user": "U7394@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7394@DOM1' moved from host C17693 to host C1797"
+    },
+    {
+        "timestamp": 767320,
+        "host": "C1797",
+        "user": "U7394@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7394@DOM1' moved from host C17693 to host C1797"
+    },
+    {
+        "timestamp": 767445,
+        "host": "C801",
+        "user": "U4353@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4353@DOM1' moved from host C17693 to host C801"
+    },
+    {
+        "timestamp": 767813,
+        "host": "C2944",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2944"
+    },
+    {
+        "timestamp": 767865,
+        "host": "C2519",
+        "user": "U4353@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4353@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 767944,
+        "host": "C17636",
+        "user": "U4353@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4353@DOM1' moved from host C17693 to host C17636"
+    },
+    {
+        "timestamp": 768006,
+        "host": "C12320",
+        "user": "U1048@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1048@DOM1' moved from host C17693 to host C12320"
+    },
+    {
+        "timestamp": 768058,
+        "host": "C17636",
+        "user": "U4353@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4353@DOM1' moved from host C17693 to host C17636"
+    },
+    {
+        "timestamp": 768162,
+        "host": "C18190",
+        "user": "U4353@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4353@DOM1' moved from host C17693 to host C18190"
+    },
+    {
+        "timestamp": 768220,
+        "host": "C18190",
+        "user": "U4353@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4353@DOM1' moved from host C17693 to host C18190"
+    },
+    {
+        "timestamp": 768373,
+        "host": "C21349",
+        "user": "U4353@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4353@DOM1' moved from host C17693 to host C21349"
+    },
+    {
+        "timestamp": 768404,
+        "host": "C2196",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2196"
+    },
+    {
+        "timestamp": 768546,
+        "host": "C17860",
+        "user": "U4353@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4353@DOM1' moved from host C17693 to host C17860"
+    },
+    {
+        "timestamp": 768556,
+        "host": "C306",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C306"
+    },
+    {
+        "timestamp": 768634,
+        "host": "C306",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C306"
+    },
+    {
+        "timestamp": 768636,
+        "host": "C12320",
+        "user": "U5254@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5254@DOM1' moved from host C17693 to host C12320"
+    },
+    {
+        "timestamp": 768646,
+        "host": "C17636",
+        "user": "U4353@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4353@DOM1' moved from host C17693 to host C17636"
+    },
+    {
+        "timestamp": 768664,
+        "host": "C17636",
+        "user": "U4353@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4353@DOM1' moved from host C17693 to host C17636"
+    },
+    {
+        "timestamp": 768685,
+        "host": "C17776",
+        "user": "U4353@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4353@DOM1' moved from host C17693 to host C17776"
+    },
+    {
+        "timestamp": 768742,
+        "host": "C1944",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1944"
+    },
+    {
+        "timestamp": 768832,
+        "host": "C3173",
+        "user": "U995@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U995@DOM1' moved from host C17693 to host C3173"
+    },
+    {
+        "timestamp": 768847,
+        "host": "C2058",
+        "user": "U995@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U995@DOM1' moved from host C17693 to host C2058"
+    },
+    {
+        "timestamp": 769022,
+        "host": "C636",
+        "user": "U8601@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8601@DOM1' moved from host C17693 to host C636"
+    },
+    {
+        "timestamp": 769067,
+        "host": "C2846",
+        "user": "U1048@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1048@DOM1' moved from host C17693 to host C2846"
+    },
+    {
+        "timestamp": 769069,
+        "host": "C636",
+        "user": "U5254@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5254@DOM1' moved from host C17693 to host C636"
+    },
+    {
+        "timestamp": 769094,
+        "host": "C1732",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1732"
+    },
+    {
+        "timestamp": 769149,
+        "host": "C2846",
+        "user": "U1048@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1048@DOM1' moved from host C17693 to host C2846"
+    },
+    {
+        "timestamp": 769352,
+        "host": "C1028",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1028"
+    },
+    {
+        "timestamp": 769431,
+        "host": "C231",
+        "user": "U1048@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1048@DOM1' moved from host C17693 to host C231"
+    },
+    {
+        "timestamp": 769440,
+        "host": "C706",
+        "user": "U1048@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1048@DOM1' moved from host C17693 to host C706"
+    },
+    {
+        "timestamp": 769461,
+        "host": "C7464",
+        "user": "U1048@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1048@DOM1' moved from host C17693 to host C7464"
+    },
+    {
+        "timestamp": 769507,
+        "host": "C1823",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1823"
+    },
+    {
+        "timestamp": 769626,
+        "host": "C13713",
+        "user": "U1048@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1048@DOM1' moved from host C17693 to host C13713"
+    },
+    {
+        "timestamp": 769638,
+        "host": "C779",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C779"
+    },
+    {
+        "timestamp": 769751,
+        "host": "C3305",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3305"
+    },
+    {
+        "timestamp": 769822,
+        "host": "C20455",
+        "user": "U1048@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1048@DOM1' moved from host C17693 to host C20455"
+    },
+    {
+        "timestamp": 769933,
+        "host": "C1952",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1952"
+    },
+    {
+        "timestamp": 770056,
+        "host": "C2388",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 770115,
+        "host": "C2519",
+        "user": "U7375@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7375@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 770138,
+        "host": "C7597",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C17693 to host C7597"
+    },
+    {
+        "timestamp": 770222,
+        "host": "C11178",
+        "user": "U9763@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9763@DOM1' moved from host C17693 to host C11178"
+    },
+    {
+        "timestamp": 770387,
+        "host": "C1415",
+        "user": "U7375@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7375@DOM1' moved from host C17693 to host C1415"
+    },
+    {
+        "timestamp": 770512,
+        "host": "C11178",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C11178"
+    },
+    {
+        "timestamp": 770601,
+        "host": "C636",
+        "user": "U7375@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7375@DOM1' moved from host C17693 to host C636"
+    },
+    {
+        "timestamp": 770651,
+        "host": "C765",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C765"
+    },
+    {
+        "timestamp": 770726,
+        "host": "C7782",
+        "user": "U7375@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7375@DOM1' moved from host C17693 to host C7782"
+    },
+    {
+        "timestamp": 770816,
+        "host": "C92",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C92"
+    },
+    {
+        "timestamp": 770870,
+        "host": "C21946",
+        "user": "U7375@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7375@DOM1' moved from host C17693 to host C21946"
+    },
+    {
+        "timestamp": 770932,
+        "host": "C143",
+        "user": "U7375@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7375@DOM1' moved from host C17693 to host C143"
+    },
+    {
+        "timestamp": 770950,
+        "host": "C742",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C742"
+    },
+    {
+        "timestamp": 771133,
+        "host": "C1626",
+        "user": "U7375@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7375@DOM1' moved from host C17693 to host C1626"
+    },
+    {
+        "timestamp": 771134,
+        "host": "C1555",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C1555"
+    },
+    {
+        "timestamp": 771340,
+        "host": "C353",
+        "user": "U9763@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9763@DOM1' moved from host C17693 to host C353"
+    },
+    {
+        "timestamp": 771380,
+        "host": "C1089",
+        "user": "U9763@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9763@DOM1' moved from host C17693 to host C1089"
+    },
+    {
+        "timestamp": 771393,
+        "host": "C2057",
+        "user": "U9763@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9763@DOM1' moved from host C17693 to host C2057"
+    },
+    {
+        "timestamp": 771401,
+        "host": "C1503",
+        "user": "U9763@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9763@DOM1' moved from host C17693 to host C1503"
+    },
+    {
+        "timestamp": 771443,
+        "host": "C1503",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C1503"
+    },
+    {
+        "timestamp": 771463,
+        "host": "C400",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C400"
+    },
+    {
+        "timestamp": 771615,
+        "host": "C2519",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 771631,
+        "host": "C1549",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C1549"
+    },
+    {
+        "timestamp": 772253,
+        "host": "C5653",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C5653"
+    },
+    {
+        "timestamp": 772715,
+        "host": "C5653",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C5653"
+    },
+    {
+        "timestamp": 772864,
+        "host": "C398",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C398"
+    },
+    {
+        "timestamp": 772906,
+        "host": "C3755",
+        "user": "U218@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U218@DOM1' moved from host C17693 to host C3755"
+    },
+    {
+        "timestamp": 772934,
+        "host": "C2079",
+        "user": "U218@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U218@DOM1' moved from host C17693 to host C2079"
+    },
+    {
+        "timestamp": 772964,
+        "host": "C1936",
+        "user": "U218@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U218@DOM1' moved from host C17693 to host C1936"
+    },
+    {
+        "timestamp": 773143,
+        "host": "C1611",
+        "user": "U4112@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4112@DOM1' moved from host C17693 to host C1611"
+    },
+    {
+        "timestamp": 773153,
+        "host": "C3758",
+        "user": "U4112@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4112@DOM1' moved from host C17693 to host C3758"
+    },
+    {
+        "timestamp": 773270,
+        "host": "C12116",
+        "user": "U4978@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4978@DOM1' moved from host C17693 to host C12116"
+    },
+    {
+        "timestamp": 773387,
+        "host": "C1438",
+        "user": "U4978@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4978@DOM1' moved from host C17693 to host C1438"
+    },
+    {
+        "timestamp": 773961,
+        "host": "C765",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C765"
+    },
+    {
+        "timestamp": 774180,
+        "host": "C1710",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1710"
+    },
+    {
+        "timestamp": 774214,
+        "host": "C1966",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1966"
+    },
+    {
+        "timestamp": 774452,
+        "host": "C2388",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 774492,
+        "host": "C2388",
+        "user": "U162@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U162@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 774514,
+        "host": "C2388",
+        "user": "U218@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U218@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 830548,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830548,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830548,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830548,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830548,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830550,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830578,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830578,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830578,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830578,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830580,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830580,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830822,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830822,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 830822,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 1066394,
+        "host": "C3610",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3610"
+    },
+    {
+        "timestamp": 1066725,
+        "host": "C881",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C881"
+    },
+    {
+        "timestamp": 1066734,
+        "host": "C1482",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1482"
+    },
+    {
+        "timestamp": 1066786,
+        "host": "C2388",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1068312,
+        "host": "C366",
+        "user": "U12@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U12@DOM1' moved from host C17693 to host C366"
+    },
+    {
+        "timestamp": 1068390,
+        "host": "C3813",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3813"
+    },
+    {
+        "timestamp": 1068507,
+        "host": "C4610",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C4610"
+    },
+    {
+        "timestamp": 1068638,
+        "host": "C626",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C626"
+    },
+    {
+        "timestamp": 1068692,
+        "host": "C626",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C626"
+    },
+    {
+        "timestamp": 1068753,
+        "host": "C626",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C626"
+    },
+    {
+        "timestamp": 1068810,
+        "host": "C1191",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1191"
+    },
+    {
+        "timestamp": 1068887,
+        "host": "C368",
+        "user": "U12@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U12@DOM1' moved from host C17693 to host C368"
+    },
+    {
+        "timestamp": 1069035,
+        "host": "C1006",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1006"
+    },
+    {
+        "timestamp": 1069965,
+        "host": "C3755",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3755"
+    },
+    {
+        "timestamp": 1070004,
+        "host": "C1438",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C1438"
+    },
+    {
+        "timestamp": 1070020,
+        "host": "C1438",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C1438"
+    },
+    {
+        "timestamp": 1070026,
+        "host": "C1438",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C1438"
+    },
+    {
+        "timestamp": 1070066,
+        "host": "C1438",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C1438"
+    },
+    {
+        "timestamp": 1070076,
+        "host": "C1438",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C1438"
+    },
+    {
+        "timestamp": 1070100,
+        "host": "C1438",
+        "user": "U5254@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5254@DOM1' moved from host C17693 to host C1438"
+    },
+    {
+        "timestamp": 1070107,
+        "host": "C398",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C398"
+    },
+    {
+        "timestamp": 1070146,
+        "host": "C1438",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C1438"
+    },
+    {
+        "timestamp": 1070182,
+        "host": "C1438",
+        "user": "U2575@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2575@DOM1' moved from host C17693 to host C1438"
+    },
+    {
+        "timestamp": 1070204,
+        "host": "C1438",
+        "user": "U4112@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4112@DOM1' moved from host C17693 to host C1438"
+    },
+    {
+        "timestamp": 1070442,
+        "host": "C2519",
+        "user": "U342@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U342@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 1070496,
+        "host": "C2519",
+        "user": "U342@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U342@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 1071248,
+        "host": "C5653",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C5653"
+    },
+    {
+        "timestamp": 1071508,
+        "host": "C430",
+        "user": "U13@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U13@DOM1' moved from host C17693 to host C430"
+    },
+    {
+        "timestamp": 1071580,
+        "host": "C368",
+        "user": "U12@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U12@DOM1' moved from host C17693 to host C368"
+    },
+    {
+        "timestamp": 1072230,
+        "host": "C3288",
+        "user": "U13@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U13@DOM1' moved from host C17693 to host C3288"
+    },
+    {
+        "timestamp": 1072237,
+        "host": "C92",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C92"
+    },
+    {
+        "timestamp": 1072316,
+        "host": "C2519",
+        "user": "U1289@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1289@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 1072375,
+        "host": "C5653",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C5653"
+    },
+    {
+        "timestamp": 1072432,
+        "host": "C2519",
+        "user": "U2575@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2575@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 1072444,
+        "host": "C2519",
+        "user": "U1289@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1289@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 1072594,
+        "host": "C3288",
+        "user": "U218@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U218@DOM1' moved from host C17693 to host C3288"
+    },
+    {
+        "timestamp": 1072660,
+        "host": "C2519",
+        "user": "U3277@C2519",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3277@C2519' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 1072662,
+        "host": "C3288",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3288"
+    },
+    {
+        "timestamp": 1072710,
+        "host": "C2519",
+        "user": "U342@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U342@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 1072860,
+        "host": "C2519",
+        "user": "U342@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U342@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 1072904,
+        "host": "C849",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C849"
+    },
+    {
+        "timestamp": 1072952,
+        "host": "C849",
+        "user": "U1519@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1519@DOM1' moved from host C17693 to host C849"
+    },
+    {
+        "timestamp": 1072980,
+        "host": "C1737",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1737"
+    },
+    {
+        "timestamp": 1072989,
+        "host": "C2012",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2012"
+    },
+    {
+        "timestamp": 1072998,
+        "host": "C2519",
+        "user": "U7761@C2519",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7761@C2519' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 1072998,
+        "host": "C2079",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2079"
+    },
+    {
+        "timestamp": 1073108,
+        "host": "C102",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C102"
+    },
+    {
+        "timestamp": 1073709,
+        "host": "C1042",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1042"
+    },
+    {
+        "timestamp": 1073778,
+        "host": "C2519",
+        "user": "U7004@C2519",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7004@C2519' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 1073810,
+        "host": "C2519",
+        "user": "U7761@C2519",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7761@C2519' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 1073892,
+        "host": "C22275",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C22275"
+    },
+    {
+        "timestamp": 1073973,
+        "host": "C92",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C92"
+    },
+    {
+        "timestamp": 1074074,
+        "host": "C1944",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1944"
+    },
+    {
+        "timestamp": 1074146,
+        "host": "C1737",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1737"
+    },
+    {
+        "timestamp": 1074158,
+        "host": "C2079",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2079"
+    },
+    {
+        "timestamp": 1074182,
+        "host": "C1964",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1964"
+    },
+    {
+        "timestamp": 1074395,
+        "host": "C1961",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1961"
+    },
+    {
+        "timestamp": 1074512,
+        "host": "C423",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C423"
+    },
+    {
+        "timestamp": 1074519,
+        "host": "C92",
+        "user": "U218@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U218@DOM1' moved from host C17693 to host C92"
+    },
+    {
+        "timestamp": 1074529,
+        "host": "C92",
+        "user": "U218@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U218@DOM1' moved from host C17693 to host C92"
+    },
+    {
+        "timestamp": 1074543,
+        "host": "C92",
+        "user": "U218@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U218@DOM1' moved from host C17693 to host C92"
+    },
+    {
+        "timestamp": 1074590,
+        "host": "C5653",
+        "user": "U218@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U218@DOM1' moved from host C17693 to host C5653"
+    },
+    {
+        "timestamp": 1074741,
+        "host": "C1936",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1936"
+    },
+    {
+        "timestamp": 1074754,
+        "host": "C1737",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1737"
+    },
+    {
+        "timestamp": 1074902,
+        "host": "C2388",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1074927,
+        "host": "C3380",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3380"
+    },
+    {
+        "timestamp": 1074955,
+        "host": "C3635",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3635"
+    },
+    {
+        "timestamp": 1074964,
+        "host": "C2388",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1075026,
+        "host": "C2388",
+        "user": "U207@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U207@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1075076,
+        "host": "C2388",
+        "user": "U162@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U162@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1075096,
+        "host": "C2388",
+        "user": "U1145@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1145@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1075114,
+        "host": "C2388",
+        "user": "U453@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U453@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1075158,
+        "host": "C2388",
+        "user": "U1480@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1480@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1075345,
+        "host": "C452",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C452"
+    },
+    {
+        "timestamp": 1075356,
+        "host": "C1015",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1075370,
+        "host": "C22174",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C22174"
+    },
+    {
+        "timestamp": 1075526,
+        "host": "C1015",
+        "user": "U9263@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9263@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1075605,
+        "host": "C5439",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C5439"
+    },
+    {
+        "timestamp": 1075609,
+        "host": "C5439",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C5439"
+    },
+    {
+        "timestamp": 1075721,
+        "host": "C4106",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C4106"
+    },
+    {
+        "timestamp": 1075884,
+        "host": "C368",
+        "user": "U20@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U20@DOM1' moved from host C17693 to host C368"
+    },
+    {
+        "timestamp": 1075914,
+        "host": "C368",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C368"
+    },
+    {
+        "timestamp": 1075935,
+        "host": "C5343",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C5343"
+    },
+    {
+        "timestamp": 1075980,
+        "host": "C368",
+        "user": "U12@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U12@DOM1' moved from host C17693 to host C368"
+    },
+    {
+        "timestamp": 1076286,
+        "host": "C1482",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1482"
+    },
+    {
+        "timestamp": 1076295,
+        "host": "C881",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C881"
+    },
+    {
+        "timestamp": 1076311,
+        "host": "C2013",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2013"
+    },
+    {
+        "timestamp": 1076662,
+        "host": "C2388",
+        "user": "U1480@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1480@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1076742,
+        "host": "C2388",
+        "user": "U453@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U453@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1076776,
+        "host": "C2388",
+        "user": "U162@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U162@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1076812,
+        "host": "C2388",
+        "user": "U207@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U207@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1077008,
+        "host": "C2388",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1077014,
+        "host": "C2388",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1077018,
+        "host": "C2388",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1077024,
+        "host": "C2388",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1077048,
+        "host": "C486",
+        "user": "U7507@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7507@DOM1' moved from host C17693 to host C486"
+    },
+    {
+        "timestamp": 1077076,
+        "host": "C486",
+        "user": "U415@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U415@DOM1' moved from host C17693 to host C486"
+    },
+    {
+        "timestamp": 1077140,
+        "host": "C1710",
+        "user": "U218@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U218@DOM1' moved from host C17693 to host C1710"
+    },
+    {
+        "timestamp": 1077169,
+        "host": "C1570",
+        "user": "U415@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U415@DOM1' moved from host C17693 to host C1570"
+    },
+    {
+        "timestamp": 1077228,
+        "host": "C2079",
+        "user": "U218@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U218@DOM1' moved from host C17693 to host C2079"
+    },
+    {
+        "timestamp": 1077256,
+        "host": "C2388",
+        "user": "U218@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U218@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1077293,
+        "host": "C1936",
+        "user": "U218@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U218@DOM1' moved from host C17693 to host C1936"
+    },
+    {
+        "timestamp": 1077500,
+        "host": "C2388",
+        "user": "U1145@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1145@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1077516,
+        "host": "C1737",
+        "user": "U1145@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1145@DOM1' moved from host C17693 to host C1737"
+    },
+    {
+        "timestamp": 1077530,
+        "host": "C2877",
+        "user": "U1145@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1145@DOM1' moved from host C17693 to host C2877"
+    },
+    {
+        "timestamp": 1077579,
+        "host": "C3019",
+        "user": "U1145@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1145@DOM1' moved from host C17693 to host C3019"
+    },
+    {
+        "timestamp": 1077589,
+        "host": "C115",
+        "user": "U1145@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1145@DOM1' moved from host C17693 to host C115"
+    },
+    {
+        "timestamp": 1077598,
+        "host": "C307",
+        "user": "U1145@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1145@DOM1' moved from host C17693 to host C307"
+    },
+    {
+        "timestamp": 1077746,
+        "host": "C2877",
+        "user": "U1145@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1145@DOM1' moved from host C17693 to host C2877"
+    },
+    {
+        "timestamp": 1077864,
+        "host": "C2877",
+        "user": "U1145@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1145@DOM1' moved from host C17693 to host C2877"
+    },
+    {
+        "timestamp": 1077992,
+        "host": "C3173",
+        "user": "U1145@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1145@DOM1' moved from host C17693 to host C3173"
+    },
+    {
+        "timestamp": 1078024,
+        "host": "C3173",
+        "user": "U415@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U415@DOM1' moved from host C17693 to host C3173"
+    },
+    {
+        "timestamp": 1078070,
+        "host": "C3019",
+        "user": "U1569@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1569@DOM1' moved from host C17693 to host C3019"
+    },
+    {
+        "timestamp": 1078099,
+        "host": "C3019",
+        "user": "U1145@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1145@DOM1' moved from host C17693 to host C3019"
+    },
+    {
+        "timestamp": 1078108,
+        "host": "C1906",
+        "user": "U415@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U415@DOM1' moved from host C17693 to host C1906"
+    },
+    {
+        "timestamp": 1078155,
+        "host": "C3019",
+        "user": "U1581@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1581@DOM1' moved from host C17693 to host C3019"
+    },
+    {
+        "timestamp": 1078163,
+        "host": "C3019",
+        "user": "U6764@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U6764@DOM1' moved from host C17693 to host C3019"
+    },
+    {
+        "timestamp": 1078177,
+        "host": "C3019",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3019"
+    },
+    {
+        "timestamp": 1078582,
+        "host": "C3019",
+        "user": "U1789@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1789@DOM1' moved from host C17693 to host C3019"
+    },
+    {
+        "timestamp": 1079716,
+        "host": "C22174",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C22174"
+    },
+    {
+        "timestamp": 1079728,
+        "host": "C22176",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C22176"
+    },
+    {
+        "timestamp": 1079836,
+        "host": "C553",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C553"
+    },
+    {
+        "timestamp": 1079852,
+        "host": "C3888",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3888"
+    },
+    {
+        "timestamp": 1079871,
+        "host": "C2013",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2013"
+    },
+    {
+        "timestamp": 1079883,
+        "host": "C1085",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1085"
+    },
+    {
+        "timestamp": 1079893,
+        "host": "C881",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C881"
+    },
+    {
+        "timestamp": 1079904,
+        "host": "C243",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C243"
+    },
+    {
+        "timestamp": 1079916,
+        "host": "C4403",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C4403"
+    },
+    {
+        "timestamp": 1079926,
+        "host": "C798",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C798"
+    },
+    {
+        "timestamp": 1080030,
+        "host": "C5111",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C5111"
+    },
+    {
+        "timestamp": 1080147,
+        "host": "C506",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C506"
+    },
+    {
+        "timestamp": 1080418,
+        "host": "C429",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C429"
+    },
+    {
+        "timestamp": 1080494,
+        "host": "C16401",
+        "user": "U7507@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7507@DOM1' moved from host C17693 to host C16401"
+    },
+    {
+        "timestamp": 1080552,
+        "host": "C3610",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3610"
+    },
+    {
+        "timestamp": 1080926,
+        "host": "C1096",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1096"
+    },
+    {
+        "timestamp": 1081539,
+        "host": "C1936",
+        "user": "U6691@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U6691@DOM1' moved from host C17693 to host C1936"
+    },
+    {
+        "timestamp": 1081550,
+        "host": "C2079",
+        "user": "U6691@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U6691@DOM1' moved from host C17693 to host C2079"
+    },
+    {
+        "timestamp": 1081595,
+        "host": "C2519",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 1081625,
+        "host": "C2519",
+        "user": "U1723@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1723@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 1081727,
+        "host": "C17640",
+        "user": "U1289@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1289@DOM1' moved from host C17693 to host C17640"
+    },
+    {
+        "timestamp": 1081806,
+        "host": "C1268",
+        "user": "U1450@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1450@DOM1' moved from host C17693 to host C1268"
+    },
+    {
+        "timestamp": 1081813,
+        "host": "C17640",
+        "user": "U1289@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1289@DOM1' moved from host C17693 to host C17640"
+    },
+    {
+        "timestamp": 1081970,
+        "host": "C1268",
+        "user": "U1450@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1450@DOM1' moved from host C17693 to host C1268"
+    },
+    {
+        "timestamp": 1082081,
+        "host": "C3758",
+        "user": "U1289@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1289@DOM1' moved from host C17693 to host C3758"
+    },
+    {
+        "timestamp": 1082091,
+        "host": "C1268",
+        "user": "U1450@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1450@DOM1' moved from host C17693 to host C1268"
+    },
+    {
+        "timestamp": 1082118,
+        "host": "C1268",
+        "user": "U1450@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1450@DOM1' moved from host C17693 to host C1268"
+    },
+    {
+        "timestamp": 1082123,
+        "host": "C3758",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3758"
+    },
+    {
+        "timestamp": 1082244,
+        "host": "C2254",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2254"
+    },
+    {
+        "timestamp": 1086525,
+        "host": "C8209",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C8209"
+    },
+    {
+        "timestamp": 1086539,
+        "host": "C8209",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C8209"
+    },
+    {
+        "timestamp": 1086678,
+        "host": "C1581",
+        "user": "U78@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U78@DOM1' moved from host C17693 to host C1581"
+    },
+    {
+        "timestamp": 1086690,
+        "host": "C1581",
+        "user": "U78@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U78@DOM1' moved from host C17693 to host C1581"
+    },
+    {
+        "timestamp": 1087158,
+        "host": "C1737",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C1737"
+    },
+    {
+        "timestamp": 1087189,
+        "host": "C1936",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C1936"
+    },
+    {
+        "timestamp": 1087878,
+        "host": "C423",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C423"
+    },
+    {
+        "timestamp": 1087928,
+        "host": "C2079",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C2079"
+    },
+    {
+        "timestamp": 1088437,
+        "host": "C1936",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C1936"
+    },
+    {
+        "timestamp": 1089101,
+        "host": "C1936",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C1936"
+    },
+    {
+        "timestamp": 1089306,
+        "host": "C1944",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C1944"
+    },
+    {
+        "timestamp": 1089536,
+        "host": "C2012",
+        "user": "U1133@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1133@DOM1' moved from host C17693 to host C2012"
+    },
+    {
+        "timestamp": 1089597,
+        "host": "C586",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C586"
+    },
+    {
+        "timestamp": 1089603,
+        "host": "C1015",
+        "user": "U9263@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9263@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1089642,
+        "host": "C2012",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C2012"
+    },
+    {
+        "timestamp": 1089975,
+        "host": "C1015",
+        "user": "U9263@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9263@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1090079,
+        "host": "C1015",
+        "user": "U9263@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9263@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1090503,
+        "host": "C636",
+        "user": "U8601@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8601@DOM1' moved from host C17693 to host C636"
+    },
+    {
+        "timestamp": 1090581,
+        "host": "C20819",
+        "user": "U8601@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8601@DOM1' moved from host C17693 to host C20819"
+    },
+    {
+        "timestamp": 1090599,
+        "host": "C20819",
+        "user": "U8601@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8601@DOM1' moved from host C17693 to host C20819"
+    },
+    {
+        "timestamp": 1090929,
+        "host": "C20819",
+        "user": "U8601@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8601@DOM1' moved from host C17693 to host C20819"
+    },
+    {
+        "timestamp": 1092177,
+        "host": "C3629",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C3629"
+    },
+    {
+        "timestamp": 1092406,
+        "host": "C457",
+        "user": "U3486@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3486@DOM1' moved from host C22409 to host C457"
+    },
+    {
+        "timestamp": 1093668,
+        "host": "C1224",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C1224"
+    },
+    {
+        "timestamp": 1093723,
+        "host": "C467",
+        "user": "U3486@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3486@DOM1' moved from host C22409 to host C467"
+    },
+    {
+        "timestamp": 1093884,
+        "host": "C1224",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C1224"
+    },
+    {
+        "timestamp": 1093906,
+        "host": "C1224",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C1224"
+    },
+    {
+        "timestamp": 1094470,
+        "host": "C3249",
+        "user": "U2231@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2231@DOM1' moved from host C17693 to host C3249"
+    },
+    {
+        "timestamp": 1094497,
+        "host": "C1438",
+        "user": "U2231@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2231@DOM1' moved from host C17693 to host C1438"
+    },
+    {
+        "timestamp": 1095235,
+        "host": "C1432",
+        "user": "U2231@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2231@DOM1' moved from host C17693 to host C1432"
+    },
+    {
+        "timestamp": 1095555,
+        "host": "C3629",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C3629"
+    },
+    {
+        "timestamp": 1095655,
+        "host": "C506",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C506"
+    },
+    {
+        "timestamp": 1095678,
+        "host": "C849",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C849"
+    },
+    {
+        "timestamp": 1095686,
+        "host": "C965",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C965"
+    },
+    {
+        "timestamp": 1095697,
+        "host": "C246",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C246"
+    },
+    {
+        "timestamp": 1095704,
+        "host": "C477",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C477"
+    },
+    {
+        "timestamp": 1095729,
+        "host": "C3635",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C3635"
+    },
+    {
+        "timestamp": 1095736,
+        "host": "C687",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C687"
+    },
+    {
+        "timestamp": 1095853,
+        "host": "C1319",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C1319"
+    },
+    {
+        "timestamp": 1095893,
+        "host": "C8209",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C8209"
+    },
+    {
+        "timestamp": 1095907,
+        "host": "C8209",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C8209"
+    },
+    {
+        "timestamp": 1096005,
+        "host": "C3303",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C3303"
+    },
+    {
+        "timestamp": 1096265,
+        "host": "C1737",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C1737"
+    },
+    {
+        "timestamp": 1096446,
+        "host": "C5618",
+        "user": "U2575@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2575@DOM1' moved from host C17693 to host C5618"
+    },
+    {
+        "timestamp": 1096467,
+        "host": "C2079",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C2079"
+    },
+    {
+        "timestamp": 1096474,
+        "host": "C5618",
+        "user": "U2231@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2231@DOM1' moved from host C17693 to host C5618"
+    },
+    {
+        "timestamp": 1096483,
+        "host": "C5618",
+        "user": "U2231@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2231@DOM1' moved from host C17693 to host C5618"
+    },
+    {
+        "timestamp": 1098904,
+        "host": "C2604",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C2604"
+    },
+    {
+        "timestamp": 1099075,
+        "host": "C3635",
+        "user": "U1133@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1133@DOM1' moved from host C17693 to host C3635"
+    },
+    {
+        "timestamp": 1099219,
+        "host": "C1015",
+        "user": "U7507@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7507@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1099237,
+        "host": "C1015",
+        "user": "U7507@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7507@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1099689,
+        "host": "C3758",
+        "user": "U1592@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1592@DOM1' moved from host C17693 to host C3758"
+    },
+    {
+        "timestamp": 1099711,
+        "host": "C1382",
+        "user": "U1592@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1592@DOM1' moved from host C17693 to host C1382"
+    },
+    {
+        "timestamp": 1099725,
+        "host": "C20677",
+        "user": "U1592@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1592@DOM1' moved from host C17693 to host C20677"
+    },
+    {
+        "timestamp": 1099816,
+        "host": "C18464",
+        "user": "U1592@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1592@DOM1' moved from host C17693 to host C18464"
+    },
+    {
+        "timestamp": 1100031,
+        "host": "C4773",
+        "user": "U7507@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7507@DOM1' moved from host C17693 to host C4773"
+    },
+    {
+        "timestamp": 1100071,
+        "host": "C1015",
+        "user": "U7507@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7507@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1100193,
+        "host": "C1015",
+        "user": "U7507@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7507@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1100280,
+        "host": "C395",
+        "user": "U1592@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1592@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 1100293,
+        "host": "C395",
+        "user": "U1592@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1592@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 1101313,
+        "host": "C486",
+        "user": "U7507@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7507@DOM1' moved from host C17693 to host C486"
+    },
+    {
+        "timestamp": 1152460,
+        "host": "C338",
+        "user": "U1025@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1025@DOM1' moved from host C17693 to host C338"
+    },
+    {
+        "timestamp": 1152644,
+        "host": "C338",
+        "user": "U1025@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1025@DOM1' moved from host C17693 to host C338"
+    },
+    {
+        "timestamp": 1153024,
+        "host": "C1046",
+        "user": "U1025@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1025@DOM1' moved from host C17693 to host C1046"
+    },
+    {
+        "timestamp": 1153118,
+        "host": "C1046",
+        "user": "U1025@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1025@DOM1' moved from host C17693 to host C1046"
+    },
+    {
+        "timestamp": 1153716,
+        "host": "C1046",
+        "user": "U1025@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1025@DOM1' moved from host C17693 to host C1046"
+    },
+    {
+        "timestamp": 1155729,
+        "host": "C3597",
+        "user": "U1025@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1025@DOM1' moved from host C17693 to host C3597"
+    },
+    {
+        "timestamp": 1161953,
+        "host": "C78",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C78"
+    },
+    {
+        "timestamp": 1161982,
+        "host": "C52",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C52"
+    },
+    {
+        "timestamp": 1161992,
+        "host": "C1302",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C1302"
+    },
+    {
+        "timestamp": 1162004,
+        "host": "C1887",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C1887"
+    },
+    {
+        "timestamp": 1162994,
+        "host": "C1015",
+        "user": "U9263@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9263@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1163138,
+        "host": "C1015",
+        "user": "U9263@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9263@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1163160,
+        "host": "C2388",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1163172,
+        "host": "C3610",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3610"
+    },
+    {
+        "timestamp": 1163440,
+        "host": "C1015",
+        "user": "U7507@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7507@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1165092,
+        "host": "C3610",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3610"
+    },
+    {
+        "timestamp": 1165480,
+        "host": "C625",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C625"
+    },
+    {
+        "timestamp": 1165923,
+        "host": "C155",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C155"
+    },
+    {
+        "timestamp": 1166288,
+        "host": "C2388",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1166301,
+        "host": "C429",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C429"
+    },
+    {
+        "timestamp": 1166320,
+        "host": "C3170",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3170"
+    },
+    {
+        "timestamp": 1166589,
+        "host": "C10",
+        "user": "U2575@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2575@DOM1' moved from host C17693 to host C10"
+    },
+    {
+        "timestamp": 1166916,
+        "host": "C10",
+        "user": "U737@C10",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@C10' moved from host C17693 to host C10"
+    },
+    {
+        "timestamp": 1167125,
+        "host": "C10",
+        "user": "U86@C10",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U86@C10' moved from host C17693 to host C10"
+    },
+    {
+        "timestamp": 1167151,
+        "host": "C10",
+        "user": "U86@C10",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U86@C10' moved from host C17693 to host C10"
+    },
+    {
+        "timestamp": 1167193,
+        "host": "C10",
+        "user": "U86@C10",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U86@C10' moved from host C17693 to host C10"
+    },
+    {
+        "timestamp": 1167547,
+        "host": "C423",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C423"
+    },
+    {
+        "timestamp": 1167670,
+        "host": "C2079",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2079"
+    },
+    {
+        "timestamp": 1167688,
+        "host": "C2079",
+        "user": "U1133@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1133@DOM1' moved from host C17693 to host C2079"
+    },
+    {
+        "timestamp": 1167720,
+        "host": "C2079",
+        "user": "U1133@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1133@DOM1' moved from host C17693 to host C2079"
+    },
+    {
+        "timestamp": 1167801,
+        "host": "C1936",
+        "user": "U1133@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1133@DOM1' moved from host C17693 to host C1936"
+    },
+    {
+        "timestamp": 1167994,
+        "host": "C3037",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3037"
+    },
+    {
+        "timestamp": 1168077,
+        "host": "C1509",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1509"
+    },
+    {
+        "timestamp": 1168100,
+        "host": "C92",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C92"
+    },
+    {
+        "timestamp": 1170101,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 1170101,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 1170101,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 1170581,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 1170581,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 1170581,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 1170581,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 1170583,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 1170583,
+        "host": "C754",
+        "user": "U1653@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1653@DOM1' moved from host C22409 to host C754"
+    },
+    {
+        "timestamp": 1171486,
+        "host": "C1887",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C1887"
+    },
+    {
+        "timestamp": 1172487,
+        "host": "C10405",
+        "user": "U2758@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2758@DOM1' moved from host C17693 to host C10405"
+    },
+    {
+        "timestamp": 1172817,
+        "host": "C22766",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C22766"
+    },
+    {
+        "timestamp": 1174646,
+        "host": "C8751",
+        "user": "U2575@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U2575@DOM1' moved from host C17693 to host C8751"
+    },
+    {
+        "timestamp": 1175047,
+        "host": "C96",
+        "user": "U9407@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9407@DOM1' moved from host C17693 to host C96"
+    },
+    {
+        "timestamp": 1176661,
+        "host": "C385",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C17693 to host C385"
+    },
+    {
+        "timestamp": 1177633,
+        "host": "C3491",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C17693 to host C3491"
+    },
+    {
+        "timestamp": 1177653,
+        "host": "C3491",
+        "user": "U24@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U24@DOM1' moved from host C17693 to host C3491"
+    },
+    {
+        "timestamp": 1177987,
+        "host": "C1710",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C1710"
+    },
+    {
+        "timestamp": 1178086,
+        "host": "C2378",
+        "user": "U24@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U24@DOM1' moved from host C17693 to host C2378"
+    },
+    {
+        "timestamp": 1178149,
+        "host": "C4934",
+        "user": "U24@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U24@DOM1' moved from host C17693 to host C4934"
+    },
+    {
+        "timestamp": 1178234,
+        "host": "C8209",
+        "user": "U3635@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3635@DOM1' moved from host C17693 to host C8209"
+    },
+    {
+        "timestamp": 1178267,
+        "host": "C1710",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C1710"
+    },
+    {
+        "timestamp": 1178388,
+        "host": "C1581",
+        "user": "U24@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U24@DOM1' moved from host C17693 to host C1581"
+    },
+    {
+        "timestamp": 1178788,
+        "host": "C1810",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C1810"
+    },
+    {
+        "timestamp": 1178955,
+        "host": "C828",
+        "user": "U9263@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9263@DOM1' moved from host C17693 to host C828"
+    },
+    {
+        "timestamp": 1179107,
+        "host": "C115",
+        "user": "U1581@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1581@DOM1' moved from host C17693 to host C115"
+    },
+    {
+        "timestamp": 1179121,
+        "host": "C1006",
+        "user": "U1581@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1581@DOM1' moved from host C17693 to host C1006"
+    },
+    {
+        "timestamp": 1179228,
+        "host": "C1632",
+        "user": "U1569@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1569@DOM1' moved from host C17693 to host C1632"
+    },
+    {
+        "timestamp": 1179410,
+        "host": "C1015",
+        "user": "U7507@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7507@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1179553,
+        "host": "C3037",
+        "user": "U655@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U655@DOM1' moved from host C17693 to host C3037"
+    },
+    {
+        "timestamp": 1179589,
+        "host": "C1710",
+        "user": "U655@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U655@DOM1' moved from host C17693 to host C1710"
+    },
+    {
+        "timestamp": 1179625,
+        "host": "C3758",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3758"
+    },
+    {
+        "timestamp": 1179675,
+        "host": "C9006",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C9006"
+    },
+    {
+        "timestamp": 1179969,
+        "host": "C395",
+        "user": "U86@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U86@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 1180104,
+        "host": "C395",
+        "user": "U86@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U86@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 1180895,
+        "host": "C457",
+        "user": "U3549@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3549@DOM1' moved from host C17693 to host C457"
+    },
+    {
+        "timestamp": 1181043,
+        "host": "C586",
+        "user": "U3549@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3549@DOM1' moved from host C17693 to host C586"
+    },
+    {
+        "timestamp": 1181615,
+        "host": "C529",
+        "user": "U3549@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3549@DOM1' moved from host C17693 to host C529"
+    },
+    {
+        "timestamp": 1181653,
+        "host": "C528",
+        "user": "U3549@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3549@DOM1' moved from host C17693 to host C528"
+    },
+    {
+        "timestamp": 1181672,
+        "host": "C528",
+        "user": "U3549@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3549@DOM1' moved from host C17693 to host C528"
+    },
+    {
+        "timestamp": 1181709,
+        "host": "C625",
+        "user": "U3549@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3549@DOM1' moved from host C17693 to host C625"
+    },
+    {
+        "timestamp": 1182115,
+        "host": "C528",
+        "user": "U3549@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3549@DOM1' moved from host C17693 to host C528"
+    },
+    {
+        "timestamp": 1184027,
+        "host": "C395",
+        "user": "U86@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U86@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 1184399,
+        "host": "C313",
+        "user": "U8170@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8170@DOM1' moved from host C17693 to host C313"
+    },
+    {
+        "timestamp": 1184445,
+        "host": "C313",
+        "user": "U8170@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8170@DOM1' moved from host C17693 to host C313"
+    },
+    {
+        "timestamp": 1184507,
+        "host": "C395",
+        "user": "U86@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U86@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 1184879,
+        "host": "C395",
+        "user": "U86@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U86@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 1233528,
+        "host": "C19038",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C19038"
+    },
+    {
+        "timestamp": 1233528,
+        "host": "C19038",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C19038"
+    },
+    {
+        "timestamp": 1233528,
+        "host": "C19038",
+        "user": "U8168@C19038",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8168@C19038' moved from host C17693 to host C19038"
+    },
+    {
+        "timestamp": 1233528,
+        "host": "C19038",
+        "user": "U8168@C19038",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8168@C19038' moved from host C17693 to host C19038"
+    },
+    {
+        "timestamp": 1233528,
+        "host": "C19038",
+        "user": "U8168@C19038",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8168@C19038' moved from host C17693 to host C19038"
+    },
+    {
+        "timestamp": 1233528,
+        "host": "C19038",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C19038"
+    },
+    {
+        "timestamp": 1233528,
+        "host": "C19038",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C19038"
+    },
+    {
+        "timestamp": 1233528,
+        "host": "C19038",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C19038"
+    },
+    {
+        "timestamp": 1233528,
+        "host": "C19038",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C19038"
+    },
+    {
+        "timestamp": 1233528,
+        "host": "C19038",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C19038"
+    },
+    {
+        "timestamp": 1233528,
+        "host": "C19038",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C19038"
+    },
+    {
+        "timestamp": 1233528,
+        "host": "C19038",
+        "user": "U8946@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8946@DOM1' moved from host C17693 to host C19038"
+    },
+    {
+        "timestamp": 1241392,
+        "host": "C2669",
+        "user": "U825@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U825@DOM1' moved from host C17693 to host C2669"
+    },
+    {
+        "timestamp": 1242383,
+        "host": "C313",
+        "user": "U8170@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8170@DOM1' moved from host C17693 to host C313"
+    },
+    {
+        "timestamp": 1243515,
+        "host": "C2388",
+        "user": "U1506@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1506@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1243526,
+        "host": "C423",
+        "user": "U1506@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1506@DOM1' moved from host C17693 to host C423"
+    },
+    {
+        "timestamp": 1243550,
+        "host": "C3610",
+        "user": "U1506@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1506@DOM1' moved from host C17693 to host C3610"
+    },
+    {
+        "timestamp": 1243561,
+        "host": "C92",
+        "user": "U1506@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1506@DOM1' moved from host C17693 to host C92"
+    },
+    {
+        "timestamp": 1243623,
+        "host": "C16563",
+        "user": "U7594@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7594@DOM1' moved from host C17693 to host C16563"
+    },
+    {
+        "timestamp": 1244616,
+        "host": "C3610",
+        "user": "U114@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U114@DOM1' moved from host C17693 to host C3610"
+    },
+    {
+        "timestamp": 1244667,
+        "host": "C2388",
+        "user": "U114@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U114@DOM1' moved from host C17693 to host C2388"
+    },
+    {
+        "timestamp": 1244695,
+        "host": "C1710",
+        "user": "U114@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U114@DOM1' moved from host C17693 to host C1710"
+    },
+    {
+        "timestamp": 1245222,
+        "host": "C4554",
+        "user": "U1106@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1106@DOM1' moved from host C17693 to host C4554"
+    },
+    {
+        "timestamp": 1245398,
+        "host": "C21919",
+        "user": "U1106@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1106@DOM1' moved from host C17693 to host C21919"
+    },
+    {
+        "timestamp": 1245678,
+        "host": "C5030",
+        "user": "U3575@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3575@DOM1' moved from host C17693 to host C5030"
+    },
+    {
+        "timestamp": 1246243,
+        "host": "C8585",
+        "user": "U3206@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3206@DOM1' moved from host C17693 to host C8585"
+    },
+    {
+        "timestamp": 1246511,
+        "host": "C1710",
+        "user": "U8777@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8777@DOM1' moved from host C17693 to host C1710"
+    },
+    {
+        "timestamp": 1246653,
+        "host": "C1710",
+        "user": "U114@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U114@DOM1' moved from host C17693 to host C1710"
+    },
+    {
+        "timestamp": 1251013,
+        "host": "C1887",
+        "user": "U3549@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3549@DOM1' moved from host C17693 to host C1887"
+    },
+    {
+        "timestamp": 1251033,
+        "host": "C1887",
+        "user": "U3549@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3549@DOM1' moved from host C17693 to host C1887"
+    },
+    {
+        "timestamp": 1251067,
+        "host": "C586",
+        "user": "U3549@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3549@DOM1' moved from host C17693 to host C586"
+    },
+    {
+        "timestamp": 1251573,
+        "host": "C457",
+        "user": "U3549@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3549@DOM1' moved from host C17693 to host C457"
+    },
+    {
+        "timestamp": 1253697,
+        "host": "C457",
+        "user": "U3549@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3549@DOM1' moved from host C17693 to host C457"
+    },
+    {
+        "timestamp": 1254446,
+        "host": "C177",
+        "user": "U227@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U227@DOM1' moved from host C17693 to host C177"
+    },
+    {
+        "timestamp": 1255347,
+        "host": "C457",
+        "user": "U3549@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3549@DOM1' moved from host C17693 to host C457"
+    },
+    {
+        "timestamp": 1328198,
+        "host": "C467",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C467"
+    },
+    {
+        "timestamp": 1328340,
+        "host": "C395",
+        "user": "U86@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U86@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 1328400,
+        "host": "C395",
+        "user": "U86@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U86@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 1328481,
+        "host": "C395",
+        "user": "U86@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U86@DOM1' moved from host C17693 to host C395"
+    },
+    {
+        "timestamp": 1351641,
+        "host": "C685",
+        "user": "U8168@C685",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8168@C685' moved from host C17693 to host C685"
+    },
+    {
+        "timestamp": 1351661,
+        "host": "C685",
+        "user": "U8168@C685",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8168@C685' moved from host C17693 to host C685"
+    },
+    {
+        "timestamp": 1351845,
+        "host": "C685",
+        "user": "U8168@C685",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8168@C685' moved from host C17693 to host C685"
+    },
+    {
+        "timestamp": 1352110,
+        "host": "C1980",
+        "user": "U679@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U679@DOM1' moved from host C17693 to host C1980"
+    },
+    {
+        "timestamp": 1353700,
+        "host": "C3388",
+        "user": "U8777@C3388",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8777@C3388' moved from host C17693 to host C3388"
+    },
+    {
+        "timestamp": 1353706,
+        "host": "C3388",
+        "user": "U8777@C3388",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8777@C3388' moved from host C17693 to host C3388"
+    },
+    {
+        "timestamp": 1353975,
+        "host": "C3388",
+        "user": "U8777@C3388",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8777@C3388' moved from host C17693 to host C3388"
+    },
+    {
+        "timestamp": 1355036,
+        "host": "C3388",
+        "user": "U8777@C3388",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8777@C3388' moved from host C17693 to host C3388"
+    },
+    {
+        "timestamp": 1355106,
+        "host": "C1500",
+        "user": "U8777@C1500",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8777@C1500' moved from host C17693 to host C1500"
+    },
+    {
+        "timestamp": 1355621,
+        "host": "C3435",
+        "user": "U24@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U24@DOM1' moved from host C17693 to host C3435"
+    },
+    {
+        "timestamp": 1356094,
+        "host": "C1980",
+        "user": "U679@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U679@DOM1' moved from host C17693 to host C1980"
+    },
+    {
+        "timestamp": 1358383,
+        "host": "C977",
+        "user": "U7311@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7311@DOM1' moved from host C17693 to host C977"
+    },
+    {
+        "timestamp": 1358404,
+        "host": "C977",
+        "user": "U7311@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7311@DOM1' moved from host C17693 to host C977"
+    },
+    {
+        "timestamp": 1359668,
+        "host": "C486",
+        "user": "U7507@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7507@DOM1' moved from host C17693 to host C486"
+    },
+    {
+        "timestamp": 1359680,
+        "host": "C1015",
+        "user": "U7507@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U7507@DOM1' moved from host C17693 to host C1015"
+    },
+    {
+        "timestamp": 1359792,
+        "host": "C486",
+        "user": "U415@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U415@DOM1' moved from host C17693 to host C486"
+    },
+    {
+        "timestamp": 1361496,
+        "host": "C1269",
+        "user": "U8170@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8170@DOM1' moved from host C17693 to host C1269"
+    },
+    {
+        "timestamp": 1361921,
+        "host": "C15",
+        "user": "U524@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U524@DOM1' moved from host C17693 to host C15"
+    },
+    {
+        "timestamp": 1362045,
+        "host": "C15",
+        "user": "U524@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U524@DOM1' moved from host C17693 to host C15"
+    },
+    {
+        "timestamp": 1362624,
+        "host": "C370",
+        "user": "U8840@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8840@DOM1' moved from host C17693 to host C370"
+    },
+    {
+        "timestamp": 1363252,
+        "host": "C791",
+        "user": "U1306@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1306@DOM1' moved from host C17693 to host C791"
+    },
+    {
+        "timestamp": 1363492,
+        "host": "C486",
+        "user": "U415@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U415@DOM1' moved from host C17693 to host C486"
+    },
+    {
+        "timestamp": 1758226,
+        "host": "C467",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C467"
+    },
+    {
+        "timestamp": 1847858,
+        "host": "C2725",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2725"
+    },
+    {
+        "timestamp": 1847888,
+        "host": "C2725",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2725"
+    },
+    {
+        "timestamp": 1847922,
+        "host": "C2725",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C2725"
+    },
+    {
+        "timestamp": 1852419,
+        "host": "C9723",
+        "user": "U3764@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3764@DOM1' moved from host C17693 to host C9723"
+    },
+    {
+        "timestamp": 1931895,
+        "host": "C612",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C612"
+    },
+    {
+        "timestamp": 2296175,
+        "host": "C126",
+        "user": "U212@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U212@DOM1' moved from host C17693 to host C126"
+    },
+    {
+        "timestamp": 2296329,
+        "host": "C3422",
+        "user": "U293@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U293@DOM1' moved from host C17693 to host C3422"
+    },
+    {
+        "timestamp": 2296449,
+        "host": "C10817",
+        "user": "U8601@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8601@DOM1' moved from host C17693 to host C10817"
+    },
+    {
+        "timestamp": 2297658,
+        "host": "C1448",
+        "user": "U5087@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5087@DOM1' moved from host C17693 to host C1448"
+    },
+    {
+        "timestamp": 2297696,
+        "host": "C1448",
+        "user": "U4978@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4978@DOM1' moved from host C17693 to host C1448"
+    },
+    {
+        "timestamp": 2300154,
+        "host": "C3597",
+        "user": "U1467@C3597",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1467@C3597' moved from host C17693 to host C3597"
+    },
+    {
+        "timestamp": 2301630,
+        "host": "C3629",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C3629"
+    },
+    {
+        "timestamp": 2301831,
+        "host": "C2519",
+        "user": "U342@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U342@DOM1' moved from host C17693 to host C2519"
+    },
+    {
+        "timestamp": 2303049,
+        "host": "C2012",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C2012"
+    },
+    {
+        "timestamp": 2303227,
+        "host": "C1936",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C1936"
+    },
+    {
+        "timestamp": 2303390,
+        "host": "C3380",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C3380"
+    },
+    {
+        "timestamp": 2303505,
+        "host": "C8209",
+        "user": "U3406@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3406@DOM1' moved from host C17693 to host C8209"
+    },
+    {
+        "timestamp": 2303559,
+        "host": "C8209",
+        "user": "U3005@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3005@DOM1' moved from host C17693 to host C8209"
+    },
+    {
+        "timestamp": 2303788,
+        "host": "C3521",
+        "user": "U10379@C3521",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U10379@C3521' moved from host C17693 to host C3521"
+    },
+    {
+        "timestamp": 2303870,
+        "host": "C1014",
+        "user": "U995@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U995@DOM1' moved from host C17693 to host C1014"
+    },
+    {
+        "timestamp": 2304805,
+        "host": "C16088",
+        "user": "U1600@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1600@DOM1' moved from host C17693 to host C16088"
+    },
+    {
+        "timestamp": 2304891,
+        "host": "C3288",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3288"
+    },
+    {
+        "timestamp": 2304904,
+        "host": "C21963",
+        "user": "U5087@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5087@DOM1' moved from host C17693 to host C21963"
+    },
+    {
+        "timestamp": 2304959,
+        "host": "C1268",
+        "user": "U5087@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U5087@DOM1' moved from host C17693 to host C1268"
+    },
+    {
+        "timestamp": 2305081,
+        "host": "C10005",
+        "user": "U795@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U795@DOM1' moved from host C17693 to host C10005"
+    },
+    {
+        "timestamp": 2305203,
+        "host": "C368",
+        "user": "U12@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U12@DOM1' moved from host C17693 to host C368"
+    },
+    {
+        "timestamp": 2305324,
+        "host": "C366",
+        "user": "U12@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U12@DOM1' moved from host C17693 to host C366"
+    },
+    {
+        "timestamp": 2305554,
+        "host": "C1555",
+        "user": "U4448@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4448@DOM1' moved from host C17693 to host C1555"
+    },
+    {
+        "timestamp": 2305762,
+        "host": "C12320",
+        "user": "U1048@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1048@DOM1' moved from host C17693 to host C12320"
+    },
+    {
+        "timestamp": 2306980,
+        "host": "C90",
+        "user": "U6572@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U6572@DOM1' moved from host C17693 to host C90"
+    },
+    {
+        "timestamp": 2307167,
+        "host": "C2578",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C17693 to host C2578"
+    },
+    {
+        "timestamp": 2364275,
+        "host": "C1448",
+        "user": "U4978@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U4978@DOM1' moved from host C17693 to host C1448"
+    },
+    {
+        "timestamp": 2365209,
+        "host": "C583",
+        "user": "U8777@C583",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U8777@C583' moved from host C17693 to host C583"
+    },
+    {
+        "timestamp": 2367407,
+        "host": "C3699",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C3699"
+    },
+    {
+        "timestamp": 2370126,
+        "host": "C5653",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C5653"
+    },
+    {
+        "timestamp": 2370254,
+        "host": "C1461",
+        "user": "U374@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U374@DOM1' moved from host C17693 to host C1461"
+    },
+    {
+        "timestamp": 2372194,
+        "host": "C626",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C626"
+    },
+    {
+        "timestamp": 2372551,
+        "host": "C626",
+        "user": "U66@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U66@DOM1' moved from host C17693 to host C626"
+    },
+    {
+        "timestamp": 2373636,
+        "host": "C2877",
+        "user": "U1145@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U1145@DOM1' moved from host C17693 to host C2877"
+    },
+    {
+        "timestamp": 2383984,
+        "host": "C529",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C529"
+    },
+    {
+        "timestamp": 2461523,
+        "host": "C9692",
+        "user": "U3718@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3718@DOM1' moved from host C17693 to host C9692"
+    },
+    {
+        "timestamp": 2461523,
+        "host": "C9692",
+        "user": "U3718@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U3718@DOM1' moved from host C17693 to host C9692"
+    },
+    {
+        "timestamp": 2468190,
+        "host": "C457",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C457"
+    },
+    {
+        "timestamp": 2536079,
+        "host": "C625",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C625"
+    },
+    {
+        "timestamp": 2550137,
+        "host": "C108",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C108"
+    },
+    {
+        "timestamp": 2550446,
+        "host": "C108",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C108"
+    },
+    {
+        "timestamp": 2551401,
+        "host": "C108",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C108"
+    },
+    {
+        "timestamp": 2551501,
+        "host": "C108",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C108"
+    },
+    {
+        "timestamp": 2551583,
+        "host": "C108",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C108"
+    },
+    {
+        "timestamp": 2552687,
+        "host": "C828",
+        "user": "U9263@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9263@DOM1' moved from host C17693 to host C828"
+    },
+    {
+        "timestamp": 2552687,
+        "host": "C828",
+        "user": "U9263@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9263@DOM1' moved from host C17693 to host C828"
+    },
+    {
+        "timestamp": 2552687,
+        "host": "C828",
+        "user": "U9263@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9263@DOM1' moved from host C17693 to host C828"
+    },
+    {
+        "timestamp": 2552687,
+        "host": "C828",
+        "user": "U9263@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U9263@DOM1' moved from host C17693 to host C828"
+    },
+    {
+        "timestamp": 2552687,
+        "host": "C828",
+        "user": "U655@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U655@DOM1' moved from host C17693 to host C828"
+    },
+    {
+        "timestamp": 2552687,
+        "host": "C828",
+        "user": "U655@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U655@DOM1' moved from host C17693 to host C828"
+    },
+    {
+        "timestamp": 2552687,
+        "host": "C828",
+        "user": "U655@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U655@DOM1' moved from host C17693 to host C828"
+    },
+    {
+        "timestamp": 2552687,
+        "host": "C828",
+        "user": "U655@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U655@DOM1' moved from host C17693 to host C828"
+    },
+    {
+        "timestamp": 2552687,
+        "host": "C828",
+        "user": "U655@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U655@DOM1' moved from host C17693 to host C828"
+    },
+    {
+        "timestamp": 2557047,
+        "host": "C108",
+        "user": "U737@DOM1",
+        "event_type": "redteam",
+        "description": "Red team activity: user 'U737@DOM1' moved from host C19932 to host C108"
+    }
+]

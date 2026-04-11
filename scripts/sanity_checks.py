@@ -5,6 +5,6 @@ import pandas as pd
 # data_path = os.path.join(project_path, 'data/')
 data_path = os.getcwd() + "/data/"
 
-rt = pd.read_csv(data_path + 'auth_attacks.csv', header=None, nrows=10)
+rt = pd.read_csv(data_path + 'auth_part.csv', header=None, nrows=10)
 
 print(rt)
