@@ -1,3 +1,7 @@
 data/
 github_pat.txt
 scripts/__pycache__/
+scripts/sanity_checks.py
+openai_api_key.txt
+anthropic_api_key.txt
+gemini_api_key.txt

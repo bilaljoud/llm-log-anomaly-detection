@@ -1,0 +1,22 @@
+You are an anomaly detection system analyzing security-relevant windows system events. Classify the following log sequence as either NORMAL or ANOMALOUS by reasoning through it step by step, with only a 1 word answer as output.
+
+Instructions:
+1. Read through each log entry carefully
+2. Identify patterns, error codes, and unusual behavior
+3. Compare against typical system behavior
+4. Consider context and sequence of events
+5. Provide your reasoning before the final classification
+
+Log Sequence:
+{eval_seq}
+
+Step-by-step analysis:
+1. Initial observations:
+2. Pattern identification:
+3. Anomaly indicators:
+4. Context evaluation:
+5. Risk assessment:
+
+Classification: [Normal / Anomalous]
+Confidence: [0-100%]
+Explanation: [Brief summary of reasoning]

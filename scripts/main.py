@@ -3,16 +3,17 @@
 
 import os
 
-from scripts.load_data import *
-from scripts.clean_data import *
-from scripts.prompting import *
-from scripts.eval import *
-from scripts.aggregate_data import *
+from load_data import *
+from clean_data import *
+from prompting import *
+from eval import *
+from aggregate_data import *
 
 data_path = os.getcwd() + "/data/"
 
 def main():
-    pass
+    print("Starting program...")
+    print("Final Results: " + str(eval()))
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,4 @@
+You are an anomaly detection system analyzing security-relevant windows system events. Classify the below log sequence as either Normal or Anomalous with a one word answer.
+
+Log sequence:
+{eval_seq}

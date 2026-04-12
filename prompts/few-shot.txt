@@ -1,0 +1,11 @@
+You are an anomaly detection system analyzing security-relevant windows system events. 
+Use the following examples of Normal and Anomalous log sequences to help classify the final log sesequence as either Normal or Anomalous.
+
+Example baseline log sequence:
+{baseline_seq}
+
+Example anomalous log sequence:
+{anomalous_seq}
+
+Log sequence to analyze:
+{eval_seq}
