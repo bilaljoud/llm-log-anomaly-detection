@@ -1,7 +1,7 @@
 import os
 # from google.generativeai import genai
 # import google.generativeai as genai
-# from google import genai
+from google import genai
 import anthropic
 
 # def sanity_check_gpt():
@@ -23,17 +23,17 @@ import anthropic
 #     )
 #     return response.text
 
-# def sanity_check_gemini():
-#     print("Performing sanity check for Gemini...")
-#     # # Placeholder for actual Gemini API call
-#     # # In practice, this would involve sending a simple prompt to the API and checking for a valid response
-#     # return "Gemini Sanity Check Passed"
-#     client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-#     response = client.models.generate_content(
-#         model="gemini-3.1-flash-preview",
-#         contents="What is 2 + 2?"
-#     )
-#     return response.text
+def sanity_check_gemini():
+    print("Performing sanity check for Gemini...")
+    # # Placeholder for actual Gemini API call
+    # # In practice, this would involve sending a simple prompt to the API and checking for a valid response
+    # return "Gemini Sanity Check Passed"
+    client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents="What is 2 + 2?"
+    )
+    return response.text
 
 def sanity_check_claude():
     print("Performing sanity check for Claude...")

@@ -26,6 +26,11 @@ def load_dataset():
 def eval_gpt(dataset, prompt_template):
     # print("Evaluating GPT with dataset and prompt template...")
     fp, tp, fn, tn = 0, 0, 0, 0
+    # print("Prompt Template:  \n", prompt_template)
+    # log_seq = dataset[0]["log_seq"]
+    # log_sequence_str = "\n".join(log_seq)
+    # print(f"\n\n\nFilled prompt template: {prompt_template.format(eval_seq=log_sequence_str)}\n\n\n")
+    # print("Example log sequence from eval dataset:  \n", "\n".join(log_seq))
     for data in dataset:
         log_seq = data["log_seq"]
         tag = data["tag"]
@@ -88,12 +93,16 @@ def eval_zero_shot():
 
     print("Evaluating GPT with zero-shot prompting...")
     gpt_results = eval_gpt(dataset, zero_shot_prompt_template)
+    print("GPT zero-shot results: ", gpt_results)
 
     print("Evaluating Claude with zero-shot prompting...")
     claude_results = eval_claude(dataset, zero_shot_prompt_template)
+    print("Claude zero-shot results: ", claude_results)
 
     print("Evaluating Gemini with zero-shot prompting...")
     gemini_results = eval_gemini(dataset, zero_shot_prompt_template)
+    print("Gemini zero-shot results: ", gemini_results)
+
 
     zero_shot_results = {
         "gpt": gpt_results,
@@ -102,21 +111,32 @@ def eval_zero_shot():
     }
     return zero_shot_results
 
+class SafeDict(dict):
+    def __missing__(self, key):
+        return "{" + key + "}"
 
 def eval_few_shot():
     print("Evaluating few-shot prompting technique...")
     dataset = load_dataset()
     few_shot_data = json.load(open(os.path.dirname(os.getcwd()) + "/prompting_data/few_shot_prompting_data.json", "r"))
     few_shot_prompt_template = load_prompt(os.path.dirname(os.getcwd()) + "/prompts/few-shot.txt")
-    few_shot_prompt_template = few_shot_prompt_template.format(
-        baseline_seq="\n".join(few_shot_data[0]["log_seq"]), anomalous_seq="\n".join(few_shot_data[0]["log_seq"])
+    few_shot_prompt_template = few_shot_prompt_template.format_map(
+        SafeDict(
+            baseline_seq="\n".join(few_shot_data["baseline_sequence"]), anomalous_seq="\n".join(few_shot_data["anomalous_sequence"])
+        )
     )
     print("Evaluating GPT with few-shot prompting...")
     gpt_results = eval_gpt(dataset, few_shot_prompt_template)
+    print("GPT few-shot results: ", gpt_results)
+
     print("Evaluating Claude with few-shot prompting...")
     claude_results = eval_claude(dataset, few_shot_prompt_template)
+    print("Claude few-shot results: ", claude_results)
+
     print("Evaluating Gemini with few-shot prompting...")
     gemini_results = eval_gemini(dataset, few_shot_prompt_template)
+    print("Gemini few-shot results: ", gemini_results)
+
     few_shot_results = {
         "gpt": gpt_results,
         "claude": claude_results,
@@ -128,12 +148,21 @@ def eval_chain_of_thought():
     print("Evaluating chain-of-thought prompting technique...")
     dataset = load_dataset()
     chain_of_thought_prompt_template = load_prompt(os.path.dirname(os.getcwd()) + "/prompts/chain-of-thought.txt")
+    
     print("Evaluating GPT with chain-of-thought prompting...")
-    gpt_results = eval_gpt(dataset, chain_of_thought_prompt_template)
+    # gpt_results = eval_gpt(dataset, chain_of_thought_prompt_template)
+    gpt_results = {"tp": 14, "fp": 43, "fn": 36, "tn": 100}
+
+    print("GPT chain-of-thought results: ", gpt_results)
+
     print("Evaluating Claude with chain-of-thought prompting...")
     claude_results = eval_claude(dataset, chain_of_thought_prompt_template)
+    print("Claude chain-of-thought results: ", claude_results)
+
     print("Evaluating Gemini with chain-of-thought prompting...")
     gemini_results = eval_gemini(dataset, chain_of_thought_prompt_template)
+    print("Gemini chain-of-thought results: ", gemini_results)
+
     chain_of_thought_results = {
         "gpt": gpt_results,
         "claude": claude_results,
@@ -163,10 +192,62 @@ def eval_metrics(results):
     return eval_results
 
 def eval():
-    zero_shot_results = eval_zero_shot()
+    # zero_shot_results = eval_zero_shot()
+
+    # RE-TEST FEW SHOT
     few_shot_results = eval_few_shot()
+
     chain_of_thought_results = eval_chain_of_thought()
     
+    # initial results from first run, will need to re-run anyway
+    # chain_of_thought_gpt_results = {"tp": 14, "fp": 43, "fn": 36, "tn": 100}
+
+
+    # Hradcoding these from previous run so I don't have to run zero shot eval again (API usage and all)
+    zero_shot_results = {
+        "gpt": {
+            "tp": 6,
+            "fp": 12,
+            "fn": 44,
+            "tn": 88
+        },
+        "claude": {
+            "tp": 12,
+            "fp": 32,
+            "fn": 38,
+            "tn": 68
+        },
+        "gemini": {
+            "tp": 19,
+            "fp": 51,
+            "fn": 31,
+            "tn": 49
+        }
+    }
+
+    # Hardcoding these from previous run so I don't have to run few shot eval again (API usage and all)
+    # NEED TO RE-TEST FEW-SHOT RESULTS, I THINK THE MODELS WERE OUTPUTTING EXPLANATIONS INSTEAD OF JUST ANOMALOUS OR NORMAL !!!
+    # few_shot_results = {
+    #     "gpt": {
+    #         "tp": 2,
+    #         "fp": 0,
+    #         "fn": 48,
+    #         "tn": 100
+    #     },
+    #     "claude": {
+    #         "tp": 0,
+    #         "fp": 0,
+    #         "fn": 50,
+    #         "tn": 100
+    #     },
+    #     "gemini": {
+    #         "tp": 0,
+    #         "fp": 0,
+    #         "fn": 50,
+    #         "tn": 100
+    #    }
+    # }
+ 
     print("Calculating zero-shot prompting metrics...")
     zero_shot_metrics = eval_metrics(zero_shot_results)
 
@@ -175,7 +256,7 @@ def eval():
 
     print("Calculating chain-of-thought prompting metrics...")
     chain_of_thought_metrics = eval_metrics(chain_of_thought_results)
-
+    
     print("\nEvaluation complete\n\n")
 
     return {

@@ -10,7 +10,7 @@ Instructions:
 Log Sequence:
 {eval_seq}
 
-Step-by-step analysis:
+Step-by-step analysis (no output):
 1. Initial observations:
 2. Pattern identification:
 3. Anomaly indicators:
@@ -20,3 +20,5 @@ Step-by-step analysis:
 Classification: [Normal / Anomalous]
 Confidence: [0-100%]
 Explanation: [Brief summary of reasoning]
+
+Provide a 1-word response only

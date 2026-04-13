@@ -9,3 +9,5 @@ Example anomalous log sequence:
 
 Log sequence to analyze:
 {eval_seq}
+
+Response output should be 1 word, either "Normal" or "Anomalous"

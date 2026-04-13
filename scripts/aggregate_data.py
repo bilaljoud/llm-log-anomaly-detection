@@ -38,19 +38,19 @@ def aggregate_data():
     redteam_json = pd.read_json(cleaned_data_path + 'redteam_cleaned.json')
 
     # choose baseline data for few-shot prompting and differentiating anomalous and non-anomalous events for evaluation
-    train_baseline_auth_json = auth_json.sample(n=20) 
-    train_anomalous_auth_json = auth_attack_json.sample(n=20) 
+    train_baseline_auth_json = auth_json.sample(n=10) 
+    train_anomalous_auth_json = auth_attack_json.sample(n=10) 
 
-    train_baseline_proc_json = proc_json.sample(n=20)
-    train_anomalous_proc_json = proc_attack_json.sample(n=20) 
+    train_baseline_proc_json = proc_json.sample(n=10)
+    train_anomalous_proc_json = proc_attack_json.sample(n=10) 
 
     train_baseline_auth_sequence = train_baseline_auth_json.apply(lambda row: f"{row.description}", axis=1).tolist()
     train_baseline_proc_sequence = train_baseline_proc_json.apply(lambda row: f"{row.description}", axis=1).tolist()
     train_anomalous_auth_sequence = train_anomalous_auth_json.apply(lambda row: f"{row.description}", axis=1).tolist()
     train_anomalous_proc_sequence = train_anomalous_proc_json.apply(lambda row: f"{row.description}", axis=1).tolist()
     
-    baseline_sequence = random.sample(train_baseline_auth_sequence + train_baseline_proc_sequence, k=40)
-    anomalous_sequence = random.sample(train_anomalous_auth_sequence + train_anomalous_proc_sequence, k=40)
+    baseline_sequence = random.sample(train_baseline_auth_sequence + train_baseline_proc_sequence, k=20)
+    anomalous_sequence = random.sample(train_anomalous_auth_sequence + train_anomalous_proc_sequence, k=20)
 
     few_shot_prompting_data = {
         "baseline_sequence": baseline_sequence,
@@ -75,11 +75,11 @@ def aggregate_data():
     # want to split it by sequential timestamp
     # anomalous_auth_sequence = anomalous_auth_json.sort_values(by="timestamp").apply(lambda row: f"Anomalous auth event: {row.description}", axis=1).tolist()
     # for now just randomly sample 20 logs from the anomalous auth and proc datasets to create anomalous sequences for evaluation, will implement sequential splitting by timestamp in future iterations
-    for i in range(100):
+    for i in range(35):
         log_seq_num += 1
-        anomalous_auth_sequence = auth_attack_json.sample(n=20).apply(lambda row: f"{row.description}", axis=1).tolist()
-        anomalous_proc_sequence = proc_attack_json.sample(n=20).apply(lambda row: f"{row.description}", axis=1).tolist()
-        anomalous_sequence = random.sample(anomalous_auth_sequence + anomalous_proc_sequence, k=40)
+        anomalous_auth_sequence = auth_attack_json.sample(n=10).apply(lambda row: f"{row.description}", axis=1).tolist()
+        anomalous_proc_sequence = proc_attack_json.sample(n=10).apply(lambda row: f"{row.description}", axis=1).tolist()
+        anomalous_sequence = random.sample(anomalous_auth_sequence + anomalous_proc_sequence, k=20)
         anomalous_data_point = {
             "sequence_id": log_seq_num,
             "tag": "anomalous",
@@ -101,9 +101,9 @@ def aggregate_data():
     # normalize_auth(proc_json.iloc[0])
     for i in range(100):
         log_seq_num += 1
-        normal_auth_sequence = auth_json.sample(n=20).apply(lambda row: f"{row.description}", axis=1).tolist()
-        normal_proc_sequence = proc_json.sample(n=20).apply(lambda row: f"{row.description}", axis=1).tolist()
-        normal_sequence = random.sample(normal_auth_sequence + normal_proc_sequence, k=40)
+        normal_auth_sequence = auth_json.sample(n=10).apply(lambda row: f"{row.description}", axis=1).tolist()
+        normal_proc_sequence = proc_json.sample(n=10).apply(lambda row: f"{row.description}", axis=1).tolist()
+        normal_sequence = random.sample(normal_auth_sequence + normal_proc_sequence, k=20)
         normal_data_point = {
             "sequence_id": log_seq_num,
             "tag": "normal",
@@ -120,11 +120,11 @@ def aggregate_data():
     #       log_description_2,
     #   ]
     # }
-    for i in range(100):
+    for i in range(15):
         log_seq_num += 1
         mixed_auth_sequence = auth_json.sample(n=10).apply(lambda row: f"{row.description}", axis=1).tolist() + auth_attack_json.sample(n=10).apply(lambda row: f"{row.description}", axis=1).tolist()
         mixed_proc_sequence = proc_json.sample(n=10).apply(lambda row: f"{row.description}", axis=1).tolist() + proc_attack_json.sample(n=10).apply(lambda row: f"{row.description}", axis=1).tolist()
-        mixed_sequence = random.sample(mixed_auth_sequence + mixed_proc_sequence, k=40)
+        mixed_sequence = random.sample(mixed_auth_sequence + mixed_proc_sequence, k=20)
         mixed_data_point = {
             "sequence_id": log_seq_num,
             "tag": "mixed",
@@ -136,12 +136,20 @@ def aggregate_data():
     # create dataset with red team activity logs, tag it as "redteam" for evaluation purposes
     # later
 
+    # shuffle the eval dataset to ensure random distribution of anomalous, normal, and mixed sequences for prompting and evaluation
+    random.shuffle(eval_dataset) 
+
+    # re-tagging the sequence-ids after shuffling
+    for i in range(0, len(eval_dataset)):
+        eval_dataset[i]["sequence_id"] = i + 1
+
     # output log sequences along with their associated labels (anomalous, normal, mixed, redteam) in another json file called 'prompting_data.json' to be used for prompting and evaluation
 
     with open(os.path.dirname(os.getcwd()) + "/prompting_data/eval_dataset.json", "w") as f:
         json.dump(eval_dataset, f, indent=4)
 
-    # eval dataset should now have 300 data points (log sequences); first 100 are anomalous, second 100 are normal, third 100 are mixed; each log sequence should contain 40 logs (20 auth and 20 proc) to be used for prompting and evaluation
+    # eval dataset WAS 300 data points with 100 normal, 100 anomalous, and 100 mixed and each sequence had 40 logs, changed it
+    # eval dataset should not have 150 data points (log sequences); first 100 are normal, 35 are anomalous, 15 are mixed; each log sequence should contain 20 logs (10 auth and 10 proc) to be used for prompting and evaluation
     # this should in theory be sufficient for results
 
 if __name__ == "__main__":
